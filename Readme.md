@@ -1,6 +1,6 @@
 # OsynicDownloader 🎵
 
-[![Rust](https://img.shields.io/badge/Rust-1.65%2B-blue)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/Rust-1.85%2B-blue)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 一款高效的osu!谱面下载工具，支持两种输入格式和并行下载，专为音游玩家和谱面管理者打造。
