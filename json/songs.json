@@ -1,0 +1,5350 @@
+[
+  {
+    "song_id": 1449491,
+    "artist_name": "25時、ナイトコードで。",
+    "mapper_name": "Mononymous",
+    "song_name": "アイディスマイル",
+    "no_video": true
+  },
+  {
+    "song_id": 1538879,
+    "artist_name": "25時、ナイトコードで。",
+    "mapper_name": "Mononymous",
+    "song_name": "ビターチョコデコレーション",
+    "no_video": false
+  },
+  {
+    "song_id": 1625177,
+    "artist_name": "25時、ナイトコードで。 × 初音ミク",
+    "mapper_name": "-Amia-",
+    "song_name": "ジャックポットサッドガール",
+    "no_video": false
+  },
+  {
+    "song_id": 1794551,
+    "artist_name": "25時、ナイトコードで。 × 初音ミク",
+    "mapper_name": "Nicknem_",
+    "song_name": "自傷無色",
+    "no_video": false
+  },
+  {
+    "song_id": 1884607,
+    "artist_name": "25時、ナイトコードで。 × 初音ミク",
+    "mapper_name": "Critical_Star",
+    "song_name": "携帯恋話",
+    "no_video": false
+  },
+  {
+    "song_id": 1715101,
+    "artist_name": "25時、ナイトコードで。 × 初音ミク",
+    "mapper_name": "Ssandi NImo",
+    "song_name": "トリコロージュ",
+    "no_video": false
+  },
+  {
+    "song_id": 1788765,
+    "artist_name": "25時、ナイトコードで。 × 鏡音レン",
+    "mapper_name": "deta5859",
+    "song_name": "バグ",
+    "no_video": false
+  },
+  {
+    "song_id": 1653529,
+    "artist_name": "25時、ナイトコードで。 × MEIKO",
+    "mapper_name": "-Amia-",
+    "song_name": "ロウワー",
+    "no_video": false
+  },
+  {
+    "song_id": 842562,
+    "artist_name": "40mP feat.ゆいこんぬ",
+    "mapper_name": "Nevo",
+    "song_name": "雨とアスファルト",
+    "no_video": false
+  },
+  {
+    "song_id": 159527,
+    "artist_name": "40mP feat.ゆいこんぬ",
+    "mapper_name": "captin1",
+    "song_name": "雨とアスファルト",
+    "no_video": false
+  },
+  {
+    "song_id": 768281,
+    "artist_name": "A.SAKA",
+    "mapper_name": "xLolicore-",
+    "song_name": "七つ紅葉灯",
+    "no_video": false
+  },
+  {
+    "song_id": 381334,
+    "artist_name": "ああああ",
+    "mapper_name": "Daikyi",
+    "song_name": "僕たちの旅とエピローグ。[Long ver.]",
+    "no_video": false
+  },
+  {
+    "song_id": 966190,
+    "artist_name": "Aaron Smith feat. Luvli",
+    "mapper_name": "Lian2002",
+    "song_name": "Dancin (Remix by KRONO)",
+    "no_video": false
+  },
+  {
+    "song_id": 1817171,
+    "artist_name": "阿部真央",
+    "mapper_name": "FreezingAnimenz",
+    "song_name": "Believe in yourself (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1983524,
+    "artist_name": "Abel & RiraN",
+    "mapper_name": "storn42",
+    "song_name": "Cotton Candy",
+    "no_video": false
+  },
+  {
+    "song_id": 1864902,
+    "artist_name": "Ado",
+    "mapper_name": "guden",
+    "song_name": "神っぽいな",
+    "no_video": false
+  },
+  {
+    "song_id": 747490,
+    "artist_name": "Aimer",
+    "mapper_name": "zhu",
+    "song_name": "Ref:rain",
+    "no_video": false
+  },
+  {
+    "song_id": 1968432,
+    "artist_name": "Aimer",
+    "mapper_name": "toybot",
+    "song_name": "twoface",
+    "no_video": false
+  },
+  {
+    "song_id": 1656579,
+    "artist_name": "Aimer with chelly (EGOIST)",
+    "mapper_name": "ATing",
+    "song_name": "ninelie",
+    "no_video": false
+  },
+  {
+    "song_id": 442510,
+    "artist_name": "Aiobahn & Yunomi",
+    "mapper_name": "deetz",
+    "song_name": "銀河鉄道のペンギン ft. nicamoq (Stripe.P Remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1794813,
+    "artist_name": "Aiobahn feat. KOTOKO",
+    "mapper_name": "FLeVI",
+    "song_name": "INTERNET OVERDOSE",
+    "no_video": false
+  },
+  {
+    "song_id": 1687132,
+    "artist_name": "Aiobahn feat. KOTOKO",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "INTERNET OVERDOSE",
+    "no_video": false
+  },
+  {
+    "song_id": 1080804,
+    "artist_name": "AiRI",
+    "mapper_name": "MCPXiaoBai",
+    "song_name": "永遠に咲く花",
+    "no_video": false
+  },
+  {
+    "song_id": 1693877,
+    "artist_name": "藍月なくる",
+    "mapper_name": "SMOKELIND",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 1690910,
+    "artist_name": "藍月なくる",
+    "mapper_name": "UberFazz",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 1922251,
+    "artist_name": "暁Records",
+    "mapper_name": "DannyPX",
+    "song_name": "HANIPAGANDA",
+    "no_video": false
+  },
+  {
+    "song_id": 1017732,
+    "artist_name": "秋絵",
+    "mapper_name": "- Matha -",
+    "song_name": "天ノ弱 Piano ver.",
+    "no_video": false
+  },
+  {
+    "song_id": 455069,
+    "artist_name": "あきやまうに",
+    "mapper_name": "sahuang",
+    "song_name": "東方緋想天",
+    "no_video": false
+  },
+  {
+    "song_id": 1354539,
+    "artist_name": "＋α／あるふぁきゅん。",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "KING",
+    "no_video": false
+  },
+  {
+    "song_id": 1951908,
+    "artist_name": "AliA",
+    "mapper_name": "Yuiazu-",
+    "song_name": "かくれんぼ",
+    "no_video": false
+  },
+  {
+    "song_id": 2001802,
+    "artist_name": "α波オルゴール",
+    "mapper_name": "Matthewwwwww",
+    "song_name": "いつも何度でも (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1839623,
+    "artist_name": "Anamanaguchi",
+    "mapper_name": "Kuroise",
+    "song_name": "Miku",
+    "no_video": false
+  },
+  {
+    "song_id": 29489,
+    "artist_name": "",
+    "mapper_name": "Colin Hou",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1948042,
+    "artist_name": "あおい (CV: 井口裕香)、ひなた (CV: 阿澄佳奈)",
+    "mapper_name": "CoLouRed GlaZeE",
+    "song_name": "扉を開けてベルを鳴らそう",
+    "no_video": false
+  },
+  {
+    "song_id": 1652337,
+    "artist_name": "多田葵",
+    "mapper_name": "rosario wknd",
+    "song_name": "灼け落ちない翼",
+    "no_video": false
+  },
+  {
+    "song_id": 1428259,
+    "artist_name": "ARM (IOSYS)",
+    "mapper_name": "Yukari_Sama",
+    "song_name": "ラストオカルティズム ～ 現し世の秘術師",
+    "no_video": false
+  },
+  {
+    "song_id": 1737280,
+    "artist_name": "存流",
+    "mapper_name": "Robinia",
+    "song_name": "まってるよ (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1916012,
+    "artist_name": "ASCA",
+    "mapper_name": "ArtZone",
+    "song_name": "凛 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1245026,
+    "artist_name": "アトリ（CV：赤尾ひかる）",
+    "mapper_name": "Drum-Hitnormal",
+    "song_name": "Dear Moments (Short Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1197073,
+    "artist_name": "アトリ (CV. 赤尾ひかる)",
+    "mapper_name": "yuzu__rinrin",
+    "song_name": "Dear Moments",
+    "no_video": false
+  },
+  {
+    "song_id": 453999,
+    "artist_name": "",
+    "mapper_name": "",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 942292,
+    "artist_name": "綾地寧々 (CV: 桐谷 華)",
+    "mapper_name": "Riana",
+    "song_name": "sweet treasure (Short Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 795001,
+    "artist_name": "あやぽんず＊",
+    "mapper_name": "Gottagof4st",
+    "song_name": "六兆年と一夜物語",
+    "no_video": false
+  },
+  {
+    "song_id": 1391695,
+    "artist_name": "Baby's breath",
+    "mapper_name": "Joltzzz",
+    "song_name": "羽ばたきのバースデイ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1871338,
+    "artist_name": "BEMANI Sound Team \"HuΣeR × 猫叉Master\" feat. Emi Evans",
+    "mapper_name": "Hakurei Yoru",
+    "song_name": "Shadow World",
+    "no_video": false
+  },
+  {
+    "song_id": 90068,
+    "artist_name": "bibuko",
+    "mapper_name": "val0108",
+    "song_name": "冷蔵庫見たらプリンがない",
+    "no_video": false
+  },
+  {
+    "song_id": 1979887,
+    "artist_name": "B小町 アイ（CV：高橋李依）",
+    "mapper_name": "Drum-Hitnormal",
+    "song_name": "サインはB -アイ Solo Ver.-",
+    "no_video": false
+  },
+  {
+    "song_id": 1801589,
+    "artist_name": "BlackYooh vs. siromaru",
+    "mapper_name": "Cubby",
+    "song_name": "Infinite Strife,",
+    "no_video": false
+  },
+  {
+    "song_id": 1185325,
+    "artist_name": "BLANKFIELD",
+    "mapper_name": "eiri-",
+    "song_name": "Flowering Game Night",
+    "no_video": false
+  },
+  {
+    "song_id": 221860,
+    "artist_name": "Bring Me The Horizon",
+    "mapper_name": "Vass_Bass",
+    "song_name": "Can You Feel My Heart",
+    "no_video": false
+  },
+  {
+    "song_id": 1480636,
+    "artist_name": "豚乙女",
+    "mapper_name": "kongzha",
+    "song_name": "儚きもの人間",
+    "no_video": false
+  },
+  {
+    "song_id": 304940,
+    "artist_name": "豚乙女",
+    "mapper_name": "Damnae",
+    "song_name": "髑髏",
+    "no_video": false
+  },
+  {
+    "song_id": 1416597,
+    "artist_name": "C418",
+    "mapper_name": "jiebi",
+    "song_name": "Dry Hands",
+    "no_video": false
+  },
+  {
+    "song_id": 1421952,
+    "artist_name": "C418",
+    "mapper_name": "jschlatt",
+    "song_name": "Wet Hands",
+    "no_video": false
+  },
+  {
+    "song_id": 323493,
+    "artist_name": "かめりあ",
+    "mapper_name": "Starry-",
+    "song_name": "overcomplexification",
+    "no_video": false
+  },
+  {
+    "song_id": 376293,
+    "artist_name": "かめりあ",
+    "mapper_name": "Evening",
+    "song_name": "PLANET//SHAPER",
+    "no_video": false
+  },
+  {
+    "song_id": 1945566,
+    "artist_name": "かめりあ feat. かめりあ",
+    "mapper_name": "Linlime",
+    "song_name": "色を喪った街 ～遺街～",
+    "no_video": false
+  },
+  {
+    "song_id": 1930425,
+    "artist_name": "かめりあ feat. ななひら",
+    "mapper_name": "DenYi",
+    "song_name": "⨍iиorzᾶ",
+    "no_video": false
+  },
+  {
+    "song_id": 1911796,
+    "artist_name": "かめりあ feat. ななひら",
+    "mapper_name": "My Angel RangE",
+    "song_name": "You Make My Life 1UP",
+    "no_video": false
+  },
+  {
+    "song_id": 1918572,
+    "artist_name": "Capchii feat. 初音ミク",
+    "mapper_name": "S0N4R",
+    "song_name": "What's up? Pop!",
+    "no_video": false
+  },
+  {
+    "song_id": 944137,
+    "artist_name": "かぴ",
+    "mapper_name": "brotarks",
+    "song_name": "私、アイドル宣⾔",
+    "no_video": false
+  },
+  {
+    "song_id": 1462698,
+    "artist_name": "Chase & Status feat. Plan B",
+    "mapper_name": "wrn81056",
+    "song_name": "End Credits",
+    "no_video": false
+  },
+  {
+    "song_id": 28936,
+    "artist_name": "",
+    "mapper_name": "zsr123",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 998403,
+    "artist_name": "CHiCO with HoneyWorks",
+    "mapper_name": "hypercyte",
+    "song_name": "乙女どもよ。(TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 831747,
+    "artist_name": "CHiCO with HoneyWorks",
+    "mapper_name": "Sotarks",
+    "song_name": "私、アイドル宣⾔",
+    "no_video": false
+  },
+  {
+    "song_id": 204020,
+    "artist_name": "茅原実里",
+    "mapper_name": "Mei",
+    "song_name": "Paradise Lost (TVサイズ)",
+    "no_video": false
+  },
+  {
+    "song_id": 878807,
+    "artist_name": "チノ (CV: 水瀬いのり)",
+    "mapper_name": "UjiMatcha",
+    "song_name": "あした元気になぁれ！",
+    "no_video": false
+  },
+  {
+    "song_id": 875806,
+    "artist_name": "チノ (CV: 水瀬いのり)",
+    "mapper_name": "eiri-",
+    "song_name": "魔法少女チノ",
+    "no_video": false
+  },
+  {
+    "song_id": 1408477,
+    "artist_name": "Chinozo",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "グッバイ宣言",
+    "no_video": false
+  },
+  {
+    "song_id": 693918,
+    "artist_name": "チト(CV：水瀬いのり)、ユーリ(CV：久保ユリカ)",
+    "mapper_name": "Nozhomi",
+    "song_name": "動く、動く",
+    "no_video": false
+  },
+  {
+    "song_id": 1857695,
+    "artist_name": "千歳サラ",
+    "mapper_name": "gazimal",
+    "song_name": "シアワセノミライ",
+    "no_video": false
+  },
+  {
+    "song_id": 48941,
+    "artist_name": "",
+    "mapper_name": "JauiPlaY",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1891714,
+    "artist_name": "黒魔",
+    "mapper_name": "cai_ji_ccc",
+    "song_name": "Lonely departure",
+    "no_video": false
+  },
+  {
+    "song_id": 1176418,
+    "artist_name": "CircusP",
+    "mapper_name": "neonat",
+    "song_name": "Copycat",
+    "no_video": false
+  },
+  {
+    "song_id": 725480,
+    "artist_name": "ClariS",
+    "mapper_name": "Sotarks",
+    "song_name": "アイヲウタエ",
+    "no_video": false
+  },
+  {
+    "song_id": 1818715,
+    "artist_name": "ClariS",
+    "mapper_name": "Angki",
+    "song_name": "ALIVE (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 334476,
+    "artist_name": "ClariS",
+    "mapper_name": "xxdeathx",
+    "song_name": "アネモネ –TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 459564,
+    "artist_name": "ClariS",
+    "mapper_name": "[C u r i]",
+    "song_name": "border -TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 25705,
+    "artist_name": "",
+    "mapper_name": "Holoaz",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 203567,
+    "artist_name": "ClariS",
+    "mapper_name": "captin1",
+    "song_name": "コネクト -TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 51739,
+    "artist_name": "",
+    "mapper_name": "jesse7419",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 2009970,
+    "artist_name": "ClariS",
+    "mapper_name": "Andrea",
+    "song_name": "はいからさんが通る",
+    "no_video": false
+  },
+  {
+    "song_id": 616149,
+    "artist_name": "ClariS",
+    "mapper_name": "[Harlequin]",
+    "song_name": "ヒトリゴト -TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 596704,
+    "artist_name": "ClariS",
+    "mapper_name": "Doormat",
+    "song_name": "ヒトリゴト -TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 602861,
+    "artist_name": "ClariS",
+    "mapper_name": "Tofu1222",
+    "song_name": "ヒトリゴト -TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 673365,
+    "artist_name": "ClariS",
+    "mapper_name": "Yasaija 714",
+    "song_name": "ホログラム",
+    "no_video": false
+  },
+  {
+    "song_id": 47994,
+    "artist_name": "ClariS",
+    "mapper_name": "CDFA",
+    "song_name": "irony",
+    "no_video": false
+  },
+  {
+    "song_id": 21582,
+    "artist_name": "",
+    "mapper_name": "Hakeru Prismriver",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 98234,
+    "artist_name": "ClariS",
+    "mapper_name": "No_Gu",
+    "song_name": "ルミナス -movie MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 724759,
+    "artist_name": "ClariS",
+    "mapper_name": "NeonLights",
+    "song_name": "PRIMALove -TV Mix-",
+    "no_video": false
+  },
+  {
+    "song_id": 198498,
+    "artist_name": "ClariS",
+    "mapper_name": "captin1",
+    "song_name": "RESTART",
+    "no_video": false
+  },
+  {
+    "song_id": 84458,
+    "artist_name": "ClariS",
+    "mapper_name": "Guy",
+    "song_name": "reunion (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 720193,
+    "artist_name": "ClariS",
+    "mapper_name": "lit120",
+    "song_name": "SHIORI",
+    "no_video": false
+  },
+  {
+    "song_id": 747684,
+    "artist_name": "ClariS",
+    "mapper_name": "PantyDev",
+    "song_name": "SHIORI",
+    "no_video": false
+  },
+  {
+    "song_id": 852998,
+    "artist_name": "ClariS",
+    "mapper_name": "Alexsander",
+    "song_name": "SHIORI (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 914328,
+    "artist_name": "ClariS",
+    "mapper_name": "Daeng Simatta",
+    "song_name": "SHIORI (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1668655,
+    "artist_name": "ClariS",
+    "mapper_name": "Virtue-",
+    "song_name": "SHIORI",
+    "no_video": false
+  },
+  {
+    "song_id": 656098,
+    "artist_name": "ClariS",
+    "mapper_name": "kunka",
+    "song_name": "SHIORI -TV size mix-",
+    "no_video": false
+  },
+  {
+    "song_id": 661919,
+    "artist_name": "ClariS",
+    "mapper_name": "Monstrata",
+    "song_name": "SHIORI -TV size mix-",
+    "no_video": false
+  },
+  {
+    "song_id": 712111,
+    "artist_name": "ClariS",
+    "mapper_name": "Minorsonek",
+    "song_name": "SHIORI vs.  ヒトリゴト",
+    "no_video": false
+  },
+  {
+    "song_id": 707380,
+    "artist_name": "ClariS",
+    "mapper_name": "Sotarks",
+    "song_name": "SHIORI vs. ヒトリゴト",
+    "no_video": false
+  },
+  {
+    "song_id": 165480,
+    "artist_name": "ClariS",
+    "mapper_name": "No_Gu",
+    "song_name": "STEP (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 450393,
+    "artist_name": "ClariS",
+    "mapper_name": "Doyak",
+    "song_name": "Wake Up -TV MIX-",
+    "no_video": false
+  },
+  {
+    "song_id": 138238,
+    "artist_name": "ClariS",
+    "mapper_name": "captin1",
+    "song_name": "with you",
+    "no_video": false
+  },
+  {
+    "song_id": 268431,
+    "artist_name": "コアラモード．",
+    "mapper_name": "captin1",
+    "song_name": "七色シンフォニー -TV Size-",
+    "no_video": false
+  },
+  {
+    "song_id": 1897323,
+    "artist_name": "cordelia",
+    "mapper_name": "Yugu",
+    "song_name": "刹那≦Imitation",
+    "no_video": false
+  },
+  {
+    "song_id": 1697477,
+    "artist_name": "cosMo@暴走P",
+    "mapper_name": "Rivals_7",
+    "song_name": "初音ミクの激唱",
+    "no_video": false
+  },
+  {
+    "song_id": 360565,
+    "artist_name": "cosMo@暴走P feat. 初音ミク",
+    "mapper_name": "juankristal",
+    "song_name": "初音ミクの消失",
+    "no_video": false
+  },
+  {
+    "song_id": 125843,
+    "artist_name": "cosMo@暴走P feat.初音ミク",
+    "mapper_name": "val0108",
+    "song_name": "初音ミクの消失",
+    "no_video": false
+  },
+  {
+    "song_id": 2070468,
+    "artist_name": "CRYCHIC",
+    "mapper_name": "lkx_Shore",
+    "song_name": "春日影 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 375607,
+    "artist_name": "蝶々P",
+    "mapper_name": "ByeForNow",
+    "song_name": "とある少年の一日",
+    "no_video": false
+  },
+  {
+    "song_id": 1267252,
+    "artist_name": "cYsmix",
+    "mapper_name": "Halfslashed",
+    "song_name": "Abandoned Shrine Party",
+    "no_video": false
+  },
+  {
+    "song_id": 140662,
+    "artist_name": "cYsmix feat. えみぃ",
+    "mapper_name": "jonathanlfj",
+    "song_name": "Tear Rain",
+    "no_video": false
+  },
+  {
+    "song_id": 1776803,
+    "artist_name": "Daisy×Daisy",
+    "mapper_name": "Muse Dash",
+    "song_name": "蒼い月",
+    "no_video": false
+  },
+  {
+    "song_id": 716326,
+    "artist_name": "Dan Salvato",
+    "mapper_name": "-Faded-",
+    "song_name": "Doki Doki Literature Club!",
+    "no_video": false
+  },
+  {
+    "song_id": 712959,
+    "artist_name": "Dan Salvato",
+    "mapper_name": "Nozhomi",
+    "song_name": "Your Reality",
+    "no_video": false
+  },
+  {
+    "song_id": 651825,
+    "artist_name": "DAOKO × 米津玄師",
+    "mapper_name": "alacat",
+    "song_name": "打上花火",
+    "no_video": false
+  },
+  {
+    "song_id": 108461,
+    "artist_name": "Darren Korb",
+    "mapper_name": "Metal",
+    "song_name": "Setting Sail, Coming Home",
+    "no_video": false
+  },
+  {
+    "song_id": 123354,
+    "artist_name": "DECO*27",
+    "mapper_name": "Tsumetaku",
+    "song_name": "愛言葉II",
+    "no_video": false
+  },
+  {
+    "song_id": 862746,
+    "artist_name": "DECO*27",
+    "mapper_name": "_lai",
+    "song_name": "愛言葉Ⅲ feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 966552,
+    "artist_name": "DECO*27",
+    "mapper_name": "Rage Quit",
+    "song_name": "アンドロイドガール feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 1740454,
+    "artist_name": "DECO*27",
+    "mapper_name": "Miyoi",
+    "song_name": "キメラ feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 696175,
+    "artist_name": "DECO*27",
+    "mapper_name": "Asaiga",
+    "song_name": "初嵐 feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 808175,
+    "artist_name": "DECO*27",
+    "mapper_name": "RepL4y",
+    "song_name": "初嵐 -日本語版-",
+    "no_video": false
+  },
+  {
+    "song_id": 413117,
+    "artist_name": "DECO*27",
+    "mapper_name": "Awaken",
+    "song_name": "ゴーストルール",
+    "no_video": false
+  },
+  {
+    "song_id": 425169,
+    "artist_name": "DECO*27",
+    "mapper_name": "val0108",
+    "song_name": "ゴーストルール",
+    "no_video": false
+  },
+  {
+    "song_id": 217572,
+    "artist_name": "DECO*27",
+    "mapper_name": "bigfrog",
+    "song_name": "8月31日feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 1218526,
+    "artist_name": "DECO*27",
+    "mapper_name": "AltoPelado",
+    "song_name": "ヒバナ feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 671199,
+    "artist_name": "DECO*27",
+    "mapper_name": "Pho",
+    "song_name": "ヒバナ feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 144367,
+    "artist_name": "DECO*27",
+    "mapper_name": "Kibbleru",
+    "song_name": "帰想本能 feat. 悠木碧",
+    "no_video": false
+  },
+  {
+    "song_id": 1943974,
+    "artist_name": "DECO*27/初音ミク",
+    "mapper_name": "FimmlpS",
+    "song_name": "妄想感傷代償連盟",
+    "no_video": false
+  },
+  {
+    "song_id": 913720,
+    "artist_name": "DECO*27",
+    "mapper_name": "YelloJello",
+    "song_name": "乙女解剖 feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 945190,
+    "artist_name": "DECO*27",
+    "mapper_name": "Asaiga",
+    "song_name": "スクランブル交際 feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 616482,
+    "artist_name": "DECO*27",
+    "mapper_name": "tutuhaha",
+    "song_name": "リバーシブル・キャンペーン",
+    "no_video": false
+  },
+  {
+    "song_id": 1722797,
+    "artist_name": "DECO*27",
+    "mapper_name": "Dellvangel",
+    "song_name": "サラマンダー feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 1308800,
+    "artist_name": "DECO*27",
+    "mapper_name": "Kyle Y",
+    "song_name": "アンデッドアリス feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 1727421,
+    "artist_name": "DECO*27",
+    "mapper_name": "MMzz",
+    "song_name": "アンダーカバー feat. Hatsune Miku",
+    "no_video": false
+  },
+  {
+    "song_id": 1432678,
+    "artist_name": "DECO*27",
+    "mapper_name": "POCARI SWEAT",
+    "song_name": "ヴァンパイア feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 43409,
+    "artist_name": "",
+    "mapper_name": "Blove",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1715004,
+    "artist_name": "ダルビッシュP feat. GUMI",
+    "mapper_name": "Livermorium",
+    "song_name": "想イ出カケラ",
+    "no_video": false
+  },
+  {
+    "song_id": 1821835,
+    "artist_name": "DIALOGUE＋",
+    "mapper_name": "Armada",
+    "song_name": "デネブとスピカ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 129844,
+    "artist_name": "Diana Vickers",
+    "mapper_name": "Autumn",
+    "song_name": "The Boy Who Murdered Love",
+    "no_video": false
+  },
+  {
+    "song_id": 1694349,
+    "artist_name": "Diceros Bicornis (xi+BlackY)",
+    "mapper_name": "Bomber E7",
+    "song_name": "Hyper Vivacity",
+    "no_video": false
+  },
+  {
+    "song_id": 1002716,
+    "artist_name": "Digital Sexy",
+    "mapper_name": "Sotarks",
+    "song_name": "Til Death (Nightcore Mix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1049374,
+    "artist_name": "DIRTY OLD MEN",
+    "mapper_name": "Asuka_-",
+    "song_name": "doors",
+    "no_video": false
+  },
+  {
+    "song_id": 1820843,
+    "artist_name": "Dixie Flatline feat. 巡音ルカ",
+    "mapper_name": "Ssandi NImo",
+    "song_name": "Just Be Friends",
+    "no_video": false
+  },
+  {
+    "song_id": 274035,
+    "artist_name": "DJ Fresh (feat. Ellie Goulding)",
+    "mapper_name": "Frey",
+    "song_name": "Flashlight (Radio Edit)",
+    "no_video": false
+  },
+  {
+    "song_id": 64636,
+    "artist_name": "DJ Genericname",
+    "mapper_name": "Moway",
+    "song_name": "Dango Dango Drum and Bass",
+    "no_video": false
+  },
+  {
+    "song_id": 1886047,
+    "artist_name": "DJ Mikesh",
+    "mapper_name": "Andrea",
+    "song_name": "Be Free (Dancecore Mix) (Nightcore Mix)",
+    "no_video": false
+  },
+  {
+    "song_id": 284229,
+    "artist_name": "DJ OKAWARI",
+    "mapper_name": "schwarzvgrune",
+    "song_name": "カノン",
+    "no_video": false
+  },
+  {
+    "song_id": 476691,
+    "artist_name": "DJ OKAWARI",
+    "mapper_name": "Narcissu",
+    "song_name": "Flower Dance",
+    "no_video": false
+  },
+  {
+    "song_id": 1022717,
+    "artist_name": "DJ Sharpnel",
+    "mapper_name": "Firika",
+    "song_name": "Back to the gate",
+    "no_video": false
+  },
+  {
+    "song_id": 827679,
+    "artist_name": "DJ Sharpnel",
+    "mapper_name": "IcyWorld",
+    "song_name": "Cyber Inductance (Speed Up Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1435435,
+    "artist_name": "DJ Sharpnel",
+    "mapper_name": "CosmicWolf",
+    "song_name": "Gate Openerz",
+    "no_video": false
+  },
+  {
+    "song_id": 1020319,
+    "artist_name": "DJ Sharpnel",
+    "mapper_name": "Unpredictable",
+    "song_name": "Gate Openerz",
+    "no_video": false
+  },
+  {
+    "song_id": 1691734,
+    "artist_name": "DJ SHARPNEL",
+    "mapper_name": "MapleSyrup-",
+    "song_name": "Pacific Girls",
+    "no_video": false
+  },
+  {
+    "song_id": 322526,
+    "artist_name": "DJ TOTTO VS 兎々",
+    "mapper_name": "qoot8123",
+    "song_name": "伐折羅-vajra-",
+    "no_video": false
+  },
+  {
+    "song_id": 332623,
+    "artist_name": "土間うまる [CV.田中あいみ]",
+    "mapper_name": "Crystal",
+    "song_name": "かくしん的☆めたまるふぉ～ぜっ！",
+    "no_video": false
+  },
+  {
+    "song_id": 1055808,
+    "artist_name": "Dormir",
+    "mapper_name": "Present",
+    "song_name": "さよならトリップ",
+    "no_video": false
+  },
+  {
+    "song_id": 1893881,
+    "artist_name": "DUSTCELL",
+    "mapper_name": "achyoo",
+    "song_name": "不成者",
+    "no_video": false
+  },
+  {
+    "song_id": 69137,
+    "artist_name": "EGOIST",
+    "mapper_name": "LunarSakuya",
+    "song_name": "名前のない怪物",
+    "no_video": false
+  },
+  {
+    "song_id": 875415,
+    "artist_name": "eicateve",
+    "mapper_name": "Dellvangel",
+    "song_name": "R.I.P.",
+    "no_video": false
+  },
+  {
+    "song_id": 1430653,
+    "artist_name": "EiK feat. らいむ(ﾟﾛﾟ)。",
+    "mapper_name": "ponbot",
+    "song_name": "a wonderful days -rebirth-",
+    "no_video": false
+  },
+  {
+    "song_id": 1868244,
+    "artist_name": "Ekcle",
+    "mapper_name": "DeviousPanda",
+    "song_name": "Crafted In Ice",
+    "no_video": false
+  },
+  {
+    "song_id": 488396,
+    "artist_name": "エミリア(CV：高橋李依)",
+    "mapper_name": "Beomsan",
+    "song_name": "Stay Alive",
+    "no_video": false
+  },
+  {
+    "song_id": 989858,
+    "artist_name": "Endorfin.",
+    "mapper_name": "_Kobii",
+    "song_name": "Fatalism",
+    "no_video": false
+  },
+  {
+    "song_id": 332235,
+    "artist_name": "ENE",
+    "mapper_name": "K i A i",
+    "song_name": "letter song",
+    "no_video": false
+  },
+  {
+    "song_id": 324451,
+    "artist_name": "佐々木恵梨",
+    "mapper_name": "Crystal",
+    "song_name": "Ring of Fortune",
+    "no_video": false
+  },
+  {
+    "song_id": 1346489,
+    "artist_name": "eufonius",
+    "mapper_name": "Bellicose",
+    "song_name": "比翼の羽根",
+    "no_video": false
+  },
+  {
+    "song_id": 1833543,
+    "artist_name": "F-777",
+    "mapper_name": "Aurorance",
+    "song_name": "The 7 Seas",
+    "no_video": false
+  },
+  {
+    "song_id": 448507,
+    "artist_name": "FELT",
+    "mapper_name": "Cuppp",
+    "song_name": "New World",
+    "no_video": false
+  },
+  {
+    "song_id": 982205,
+    "artist_name": "Fractal Dreamers",
+    "mapper_name": "Present",
+    "song_name": "Module_410",
+    "no_video": false
+  },
+  {
+    "song_id": 1336885,
+    "artist_name": "Fran Liszt",
+    "mapper_name": "refortinx",
+    "song_name": "La Campanella",
+    "no_video": false
+  },
+  {
+    "song_id": 869519,
+    "artist_name": "フレデリック",
+    "mapper_name": "eiri-",
+    "song_name": "かなしいうれしい (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 249939,
+    "artist_name": "藤女生徒会執行部",
+    "mapper_name": "No Dap",
+    "song_name": "Best FriendS",
+    "no_video": false
+  },
+  {
+    "song_id": 921889,
+    "artist_name": "藤原千花 (CV: 小原好美)",
+    "mapper_name": "Lami",
+    "song_name": "チカっとチカ千花っ♡ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 722432,
+    "artist_name": "松本文紀",
+    "mapper_name": "Gust",
+    "song_name": "美しい音色で世界が鳴った",
+    "no_video": false
+  },
+  {
+    "song_id": 1626625,
+    "artist_name": "GARNiDELiA",
+    "mapper_name": "Sotarks",
+    "song_name": "約束 -Promise code- (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1314274,
+    "artist_name": "Gawr Gura",
+    "mapper_name": "-Aqua",
+    "song_name": "Fly Me To The Moon",
+    "no_video": false
+  },
+  {
+    "song_id": 1498251,
+    "artist_name": "Gawr Gura",
+    "mapper_name": "Cynplytholowazy",
+    "song_name": "REFLECT",
+    "no_video": false
+  },
+  {
+    "song_id": 1336282,
+    "artist_name": "Gawr Gura",
+    "mapper_name": "Rosiie",
+    "song_name": "RIDE ON TIME (REDALiCE's CITY POP SHARK Remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 647452,
+    "artist_name": "ジェム",
+    "mapper_name": "Loreley",
+    "song_name": "ウミユリ海底譚",
+    "no_video": false
+  },
+  {
+    "song_id": 1110967,
+    "artist_name": "Getter Jaani",
+    "mapper_name": "Logan636",
+    "song_name": "Rockefeller Street (Nightcore Mix)",
+    "no_video": false
+  },
+  {
+    "song_id": 33842,
+    "artist_name": "",
+    "mapper_name": "osuplayer111",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 865490,
+    "artist_name": "Giga",
+    "mapper_name": "Pho",
+    "song_name": "劣等上等",
+    "no_video": false
+  },
+  {
+    "song_id": 571547,
+    "artist_name": "Gom（HoneyWorks）",
+    "mapper_name": "Antalf",
+    "song_name": "前前前世",
+    "no_video": false
+  },
+  {
+    "song_id": 503141,
+    "artist_name": "Gom（HoneyWorks）",
+    "mapper_name": "MugiwaraSekai",
+    "song_name": "前前前世",
+    "no_video": false
+  },
+  {
+    "song_id": 309881,
+    "artist_name": "goreshit",
+    "mapper_name": "Tidek",
+    "song_name": "burn this moment into the retina of my eye",
+    "no_video": false
+  },
+  {
+    "song_id": 1116346,
+    "artist_name": "goreshit",
+    "mapper_name": "Jhinxanity",
+    "song_name": "Jump Practice",
+    "no_video": false
+  },
+  {
+    "song_id": 103862,
+    "artist_name": "Groove Coverage",
+    "mapper_name": "Asphyxia",
+    "song_name": "Runaway (Nightcore Mix)",
+    "no_video": false
+  },
+  {
+    "song_id": 841634,
+    "artist_name": "ハチ feat.初音ミク",
+    "mapper_name": "gowww",
+    "song_name": "砂の惑星",
+    "no_video": false
+  },
+  {
+    "song_id": 1962079,
+    "artist_name": "H△G",
+    "mapper_name": "-Xooti-",
+    "song_name": "カラフル (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1803693,
+    "artist_name": "halca",
+    "mapper_name": "Amamya",
+    "song_name": "誰彼スクランブル (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 251365,
+    "artist_name": "Halozy",
+    "mapper_name": "Feerum",
+    "song_name": "感傷の摩天楼",
+    "no_video": false
+  },
+  {
+    "song_id": 673099,
+    "artist_name": "はな",
+    "mapper_name": "Lama Poluna",
+    "song_name": "空気力学少女と少年の詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1164291,
+    "artist_name": "はな",
+    "mapper_name": "Luscent",
+    "song_name": "空気力学少女と少年の詩",
+    "no_video": false
+  },
+  {
+    "song_id": 510605,
+    "artist_name": "はな",
+    "mapper_name": "missa1912",
+    "song_name": "空気力学少女と少年の詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1349232,
+    "artist_name": "はな",
+    "mapper_name": "XDerbyX",
+    "song_name": "空気力学少女と少年の詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1083313,
+    "artist_name": "はな",
+    "mapper_name": "Alexsander",
+    "song_name": "櫻ノ詩",
+    "no_video": false
+  },
+  {
+    "song_id": 608361,
+    "artist_name": "Hana",
+    "mapper_name": "chouyaa",
+    "song_name": "Sakura no Uta",
+    "no_video": false
+  },
+  {
+    "song_id": 1237394,
+    "artist_name": "はな",
+    "mapper_name": "datoujia",
+    "song_name": "櫻ノ詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1872783,
+    "artist_name": "はな",
+    "mapper_name": "InsertUsernamev",
+    "song_name": "櫻ノ詩",
+    "no_video": false
+  },
+  {
+    "song_id": 570858,
+    "artist_name": "はな",
+    "mapper_name": "khairul anwar",
+    "song_name": "櫻ノ詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1528109,
+    "artist_name": "はな",
+    "mapper_name": "TritoBandito",
+    "song_name": "櫻ノ詩",
+    "no_video": false
+  },
+  {
+    "song_id": 440068,
+    "artist_name": "はな",
+    "mapper_name": "Ultimate Madoka",
+    "song_name": "櫻ノ詩",
+    "no_video": false
+  },
+  {
+    "song_id": 632912,
+    "artist_name": "Hana",
+    "mapper_name": "Yururu",
+    "song_name": "Sakura no Uta",
+    "no_video": false
+  },
+  {
+    "song_id": 427688,
+    "artist_name": "はな",
+    "mapper_name": "Giralda",
+    "song_name": "さくらとことり",
+    "no_video": false
+  },
+  {
+    "song_id": 1180189,
+    "artist_name": "はな",
+    "mapper_name": "kudosu",
+    "song_name": "さくらとことり",
+    "no_video": false
+  },
+  {
+    "song_id": 910824,
+    "artist_name": "はな",
+    "mapper_name": "Lafayla",
+    "song_name": "さくらとことり",
+    "no_video": false
+  },
+  {
+    "song_id": 757784,
+    "artist_name": "はな",
+    "mapper_name": "Silky",
+    "song_name": "さくらとことり",
+    "no_video": false
+  },
+  {
+    "song_id": 566759,
+    "artist_name": "はな",
+    "mapper_name": "yuzu__rinrin",
+    "song_name": "さくらとことり",
+    "no_video": false
+  },
+  {
+    "song_id": 999367,
+    "artist_name": "はな",
+    "mapper_name": "Gust",
+    "song_name": "天球の下の奇蹟",
+    "no_video": false
+  },
+  {
+    "song_id": 1687393,
+    "artist_name": "はな",
+    "mapper_name": "subahibi",
+    "song_name": "tree",
+    "no_video": false
+  },
+  {
+    "song_id": 1817125,
+    "artist_name": "花坂結衣 (CV：Ｍ・Ａ・Ｏ)",
+    "mapper_name": "Orkay",
+    "song_name": "春待ちクローバー (VINXIS Dopamine Hit)",
+    "no_video": false
+  },
+  {
+    "song_id": 1932302,
+    "artist_name": "花たん",
+    "mapper_name": "buckfro",
+    "song_name": "アルカンシェル",
+    "no_video": false
+  },
+  {
+    "song_id": 132591,
+    "artist_name": "花たん",
+    "mapper_name": "captin1",
+    "song_name": "ロミオとシンデレラ",
+    "no_video": false
+  },
+  {
+    "song_id": 810642,
+    "artist_name": "花たん",
+    "mapper_name": "jimmy55555",
+    "song_name": "笹舟",
+    "no_video": false
+  },
+  {
+    "song_id": 400208,
+    "artist_name": "花たん",
+    "mapper_name": "Asahina Momoko",
+    "song_name": "歌に形はないけれど",
+    "no_video": false
+  },
+  {
+    "song_id": 180366,
+    "artist_name": "花たん",
+    "mapper_name": "Natsu",
+    "song_name": "歌に形はないけれど",
+    "no_video": false
+  },
+  {
+    "song_id": 181430,
+    "artist_name": "花たん",
+    "mapper_name": "Rakuen",
+    "song_name": "歌に形はないけれど",
+    "no_video": false
+  },
+  {
+    "song_id": 9430,
+    "artist_name": "",
+    "mapper_name": "taka1235",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1525593,
+    "artist_name": "花园Serena × hanser",
+    "mapper_name": "UjiMatcha",
+    "song_name": "PONPONPON (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1716396,
+    "artist_name": "原田ひとみ",
+    "mapper_name": "sinn",
+    "song_name": "ever forever",
+    "no_video": false
+  },
+  {
+    "song_id": 1319323,
+    "artist_name": "原田ひとみ",
+    "mapper_name": "Kibbleru",
+    "song_name": "共鳴のTrue Force",
+    "no_video": false
+  },
+  {
+    "song_id": 175150,
+    "artist_name": "原田ひとみ",
+    "mapper_name": "Sellenite",
+    "song_name": "little explorer",
+    "no_video": false
+  },
+  {
+    "song_id": 1873428,
+    "artist_name": "Harry Styles",
+    "mapper_name": "ThisYuzu",
+    "song_name": "As It Was",
+    "no_video": false
+  },
+  {
+    "song_id": 1654195,
+    "artist_name": "はるまきごはん",
+    "mapper_name": "xHappy-",
+    "song_name": "彗星になれたなら",
+    "no_video": false
+  },
+  {
+    "song_id": 944938,
+    "artist_name": "はるまきごはん feat. 初音ミク",
+    "mapper_name": "mindmaster107",
+    "song_name": "メルティランドナイトメア",
+    "no_video": false
+  },
+  {
+    "song_id": 36858,
+    "artist_name": "",
+    "mapper_name": "NatsumeRin",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 6300,
+    "artist_name": "",
+    "mapper_name": "Kyocciola",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 541483,
+    "artist_name": "Helblinde",
+    "mapper_name": "Kaito-kun",
+    "song_name": "Heaven's Fall",
+    "no_video": false
+  },
+  {
+    "song_id": 1020335,
+    "artist_name": "highcolor_sunz",
+    "mapper_name": "Mirash",
+    "song_name": "RE-OVERDOSE",
+    "no_video": false
+  },
+  {
+    "song_id": 1712939,
+    "artist_name": "柊南",
+    "mapper_name": "DenYi",
+    "song_name": "ハイドアンド・シーク",
+    "no_video": false
+  },
+  {
+    "song_id": 1957823,
+    "artist_name": "ひめりんご",
+    "mapper_name": "Nevo",
+    "song_name": "イドラのサーカス",
+    "no_video": false
+  },
+  {
+    "song_id": 1356026,
+    "artist_name": "himmel feat. 瑶山百靈",
+    "mapper_name": "Muse Dash",
+    "song_name": "遠楓",
+    "no_video": false
+  },
+  {
+    "song_id": 1941165,
+    "artist_name": "Hoàng Thùy Linh",
+    "mapper_name": "Kujinn",
+    "song_name": "See Tình (Sped Up & Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 444335,
+    "artist_name": "放課後ティータイム",
+    "mapper_name": "Kagetsu",
+    "song_name": "キラキラ Days",
+    "no_video": false
+  },
+  {
+    "song_id": 976322,
+    "artist_name": "放課後ティータイム",
+    "mapper_name": "bossandy",
+    "song_name": "U&I",
+    "no_video": false
+  },
+  {
+    "song_id": 1382779,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "あすいろClearSky",
+    "no_video": false
+  },
+  {
+    "song_id": 1332740,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "BLUE CLAPPER",
+    "no_video": false
+  },
+  {
+    "song_id": 1348412,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "Candy-Go-Round",
+    "no_video": false
+  },
+  {
+    "song_id": 1354170,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "でいり～だいあり～！",
+    "no_video": false
+  },
+  {
+    "song_id": 1373114,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "Dreaming Days",
+    "no_video": false
+  },
+  {
+    "song_id": 1337343,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "百花繚乱花吹雪",
+    "no_video": false
+  },
+  {
+    "song_id": 1125707,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "キラメキライダー☆",
+    "no_video": false
+  },
+  {
+    "song_id": 1285447,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "今宵はHalloween Night!",
+    "no_video": false
+  },
+  {
+    "song_id": 1342689,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "至上主義アドトラック",
+    "no_video": false
+  },
+  {
+    "song_id": 1151079,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "Shiny Smily Story",
+    "no_video": false
+  },
+  {
+    "song_id": 1368715,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "STARDUST SONG",
+    "no_video": false
+  },
+  {
+    "song_id": 1360537,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "Suspect",
+    "no_video": false
+  },
+  {
+    "song_id": 1136612,
+    "artist_name": "hololive IDOL PROJECT",
+    "mapper_name": "Amateurre",
+    "song_name": "夢見る空へ",
+    "no_video": false
+  },
+  {
+    "song_id": 1759322,
+    "artist_name": "HoneyWorks feat. かぴ",
+    "mapper_name": "aundy",
+    "song_name": "推し変なんて許さない！",
+    "no_video": false
+  },
+  {
+    "song_id": 1840881,
+    "artist_name": "HoneyWorks feat. Kotoha",
+    "mapper_name": "aundy",
+    "song_name": "誇り高きアイドル",
+    "no_video": false
+  },
+  {
+    "song_id": 1652496,
+    "artist_name": "星街すいせい",
+    "mapper_name": "Mocaotic",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 1823978,
+    "artist_name": "星見プロダクション",
+    "mapper_name": "Mahiru Shiina",
+    "song_name": "サヨナラから始まる物語 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1247923,
+    "artist_name": "保科めぐみ",
+    "mapper_name": "Muse Dash",
+    "song_name": "スタートリップ (Short Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 519521,
+    "artist_name": "紫咲ほたる",
+    "mapper_name": "eLy",
+    "song_name": "Re:TrymenT",
+    "no_video": false
+  },
+  {
+    "song_id": 636072,
+    "artist_name": "紫咲ほたる",
+    "mapper_name": "Shiratoi",
+    "song_name": "Re:TrymenT",
+    "no_video": false
+  },
+  {
+    "song_id": 517706,
+    "artist_name": "紫咲ほたる",
+    "mapper_name": "toybot",
+    "song_name": "Re:TrymenT",
+    "no_video": false
+  },
+  {
+    "song_id": 1883457,
+    "artist_name": "ハンブレッダーズ",
+    "mapper_name": "Basensorex",
+    "song_name": "光 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1346198,
+    "artist_name": "HyuN",
+    "mapper_name": "Gregorius12",
+    "song_name": "Infinity Heaven",
+    "no_video": false
+  },
+  {
+    "song_id": 1113963,
+    "artist_name": "HyuN (feat.Syepias) ver. Japanese",
+    "mapper_name": "drogonaix",
+    "song_name": "Cross Soul",
+    "no_video": false
+  },
+  {
+    "song_id": 51245,
+    "artist_name": "",
+    "mapper_name": "NatsumeRin",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 765778,
+    "artist_name": "Icon For Hire",
+    "mapper_name": "Sotarks",
+    "song_name": "Make a Move (Speed Up Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 347453,
+    "artist_name": "Igorrr & Ruby My Dear",
+    "mapper_name": "Parachor",
+    "song_name": "Figue Folle",
+    "no_video": false
+  },
+  {
+    "song_id": 1889101,
+    "artist_name": "II-L feat. amelie xoxo",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "THE EARTH",
+    "no_video": false
+  },
+  {
+    "song_id": 328095,
+    "artist_name": "今井麻美",
+    "mapper_name": "Crystal",
+    "song_name": "朝焼けのスターマイン (アニメVer.)",
+    "no_video": false
+  },
+  {
+    "song_id": 749977,
+    "artist_name": "今井麻美",
+    "mapper_name": "Kanon Matsubara",
+    "song_name": "朝焼けのスターマイン (Ramakun Breakbeat Funkot Remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 2002100,
+    "artist_name": "in love with a ghost",
+    "mapper_name": "fvrex",
+    "song_name": "trans rights",
+    "no_video": false
+  },
+  {
+    "song_id": 1928253,
+    "artist_name": "水瀬いのり",
+    "mapper_name": "Wen",
+    "song_name": "MELODY FLAG",
+    "no_video": false
+  },
+  {
+    "song_id": 1695639,
+    "artist_name": "水瀬いのり",
+    "mapper_name": "-Hitomi",
+    "song_name": "REAL-EYES",
+    "no_video": false
+  },
+  {
+    "song_id": 1983552,
+    "artist_name": "戌神ころね&猫又おかゆ",
+    "mapper_name": "Mirsaaa",
+    "song_name": "ヒャダインのじょーじょーゆーじょー",
+    "no_video": false
+  },
+  {
+    "song_id": 1741978,
+    "artist_name": "石原夏織",
+    "mapper_name": "Burabou",
+    "song_name": "Cherish (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1897177,
+    "artist_name": "Islet feat. 倚水",
+    "mapper_name": "Flame Haze",
+    "song_name": "白日夢",
+    "no_video": false
+  },
+  {
+    "song_id": 1167399,
+    "artist_name": "isoganakya",
+    "mapper_name": "sushie209",
+    "song_name": "isogu2020 (Jump Practice)",
+    "no_video": false
+  },
+  {
+    "song_id": 1276486,
+    "artist_name": "isoganakya",
+    "mapper_name": "Dragoofficial",
+    "song_name": "isogu2020 (Stream Practice Maps)",
+    "no_video": false
+  },
+  {
+    "song_id": 1627313,
+    "artist_name": "いとうかなこ",
+    "mapper_name": "PaRaDogi",
+    "song_name": "Hacking to the Gate (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 352726,
+    "artist_name": "いとうかなこ",
+    "mapper_name": "N a s y a",
+    "song_name": "スカイクラッドの観測者",
+    "no_video": false
+  },
+  {
+    "song_id": 840945,
+    "artist_name": "いとうかなこ",
+    "mapper_name": "chickenbible",
+    "song_name": "Hacking to the Gate (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1054019,
+    "artist_name": "周杰倫",
+    "mapper_name": "Madoka2574",
+    "song_name": "說好不哭",
+    "no_video": false
+  },
+  {
+    "song_id": 1817410,
+    "artist_name": "周杰伦",
+    "mapper_name": "XiaoMai",
+    "song_name": "最伟大的作品",
+    "no_video": false
+  },
+  {
+    "song_id": 1830075,
+    "artist_name": "じぽたん",
+    "mapper_name": "imariL",
+    "song_name": "ピアノ連弾的「You」～ひぐらしのなく頃に～",
+    "no_video": false
+  },
+  {
+    "song_id": 1342680,
+    "artist_name": "Jun Kuroda",
+    "mapper_name": "Respirte",
+    "song_name": "夏風と君の笑顔",
+    "no_video": false
+  },
+  {
+    "song_id": 454725,
+    "artist_name": "麻枝 准×やなぎなぎ",
+    "mapper_name": "Yohanes",
+    "song_name": "Killer Song",
+    "no_video": false
+  },
+  {
+    "song_id": 1680764,
+    "artist_name": "JUNNA",
+    "mapper_name": "Astrolis",
+    "song_name": "風の音さえ聞こえない (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1654426,
+    "artist_name": "花譜 feat. 可不",
+    "mapper_name": "Astrolis",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 1180061,
+    "artist_name": "神楽めあ",
+    "mapper_name": "Yuuma",
+    "song_name": "あまのじゃく",
+    "no_video": false
+  },
+  {
+    "song_id": 1464216,
+    "artist_name": "神楽めあ",
+    "mapper_name": "Present",
+    "song_name": "あの夢をなぞって",
+    "no_video": false
+  },
+  {
+    "song_id": 1219143,
+    "artist_name": "神楽めあ",
+    "mapper_name": "Present",
+    "song_name": "ダダダダ天使 (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1683677,
+    "artist_name": "神楽めあ",
+    "mapper_name": "MeAqua tete",
+    "song_name": "神楽めあ Original Songs Compilation",
+    "no_video": false
+  },
+  {
+    "song_id": 947388,
+    "artist_name": "神楽めあ",
+    "mapper_name": "Present",
+    "song_name": "変わらないもの",
+    "no_video": false
+  },
+  {
+    "song_id": 975467,
+    "artist_name": "神楽めあ",
+    "mapper_name": "Present",
+    "song_name": "聞こえますか",
+    "no_video": false
+  },
+  {
+    "song_id": 972341,
+    "artist_name": "神楽めあ",
+    "mapper_name": "StrengeMistake",
+    "song_name": "ベノム",
+    "no_video": false
+  },
+  {
+    "song_id": 1334937,
+    "artist_name": "神楽めあ",
+    "mapper_name": "Present",
+    "song_name": "夜に駆ける",
+    "no_video": false
+  },
+  {
+    "song_id": 1661105,
+    "artist_name": "神楽めあ, 天神子兎音",
+    "mapper_name": "MeAqua tete",
+    "song_name": "MIRACLE RUSH (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1720983,
+    "artist_name": "かいりきベア feat. GUMI",
+    "mapper_name": "Nevo",
+    "song_name": "マネマネサイコトロピック",
+    "no_video": false
+  },
+  {
+    "song_id": 1869533,
+    "artist_name": "かいりきベア feat. 初音ミク",
+    "mapper_name": "Amamya",
+    "song_name": "失敗作少女",
+    "no_video": false
+  },
+  {
+    "song_id": 1731388,
+    "artist_name": "神代あみ",
+    "mapper_name": "-Aqua",
+    "song_name": "スイートマリアージュ",
+    "no_video": false
+  },
+  {
+    "song_id": 1483467,
+    "artist_name": "神代あみ",
+    "mapper_name": "tsukino",
+    "song_name": "スイートマリアージュ (Game Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 742031,
+    "artist_name": "カモメサノエレクトリックオーケストラ",
+    "mapper_name": "R3m",
+    "song_name": "FIN4LE ～終止線の彼方へ～",
+    "no_video": false
+  },
+  {
+    "song_id": 758923,
+    "artist_name": "KANA-BOON",
+    "mapper_name": "zhu",
+    "song_name": "ないものねだり",
+    "no_video": false
+  },
+  {
+    "song_id": 754383,
+    "artist_name": "鹿乃",
+    "mapper_name": "Realazy",
+    "song_name": "天ノ弱",
+    "no_video": false
+  },
+  {
+    "song_id": 850717,
+    "artist_name": "鹿乃",
+    "mapper_name": "Rieri",
+    "song_name": "Daisy Blue",
+    "no_video": false
+  },
+  {
+    "song_id": 886402,
+    "artist_name": "鹿乃",
+    "mapper_name": "SquareTude",
+    "song_name": "Daisy Blue",
+    "no_video": false
+  },
+  {
+    "song_id": 743715,
+    "artist_name": "鹿乃",
+    "mapper_name": "YukiZura-",
+    "song_name": "Daisy Blue",
+    "no_video": false
+  },
+  {
+    "song_id": 1181420,
+    "artist_name": "鹿乃",
+    "mapper_name": "Ayucchi",
+    "song_name": "言って。",
+    "no_video": false
+  },
+  {
+    "song_id": 881235,
+    "artist_name": "鹿乃",
+    "mapper_name": "SeaRasp",
+    "song_name": "paranoia",
+    "no_video": false
+  },
+  {
+    "song_id": 594067,
+    "artist_name": "鹿乃",
+    "mapper_name": "[XV]",
+    "song_name": "サクラノ前夜",
+    "no_video": false
+  },
+  {
+    "song_id": 240926,
+    "artist_name": "鹿乃",
+    "mapper_name": "StarForYou",
+    "song_name": "六兆年と一夜物語",
+    "no_video": false
+  },
+  {
+    "song_id": 1107950,
+    "artist_name": "鹿乃",
+    "mapper_name": "Kowari",
+    "song_name": "Stella-rium",
+    "no_video": false
+  },
+  {
+    "song_id": 386117,
+    "artist_name": "鹿乃",
+    "mapper_name": "Tsukuyomi",
+    "song_name": "Stella-rium",
+    "no_video": false
+  },
+  {
+    "song_id": 484532,
+    "artist_name": "鹿乃",
+    "mapper_name": "Loreley",
+    "song_name": "スキスキ絶頂症",
+    "no_video": false
+  },
+  {
+    "song_id": 1381171,
+    "artist_name": "カノエラナ",
+    "mapper_name": "-Keqing",
+    "song_name": "月と星空 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 43714,
+    "artist_name": "",
+    "mapper_name": "Asgard",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 117757,
+    "artist_name": "keeno",
+    "mapper_name": "Simple_Star",
+    "song_name": "glow",
+    "no_video": false
+  },
+  {
+    "song_id": 1213119,
+    "artist_name": "kemu feat. IA",
+    "mapper_name": "Rivals_7",
+    "song_name": "六兆年と一夜物語",
+    "no_video": false
+  },
+  {
+    "song_id": 348526,
+    "artist_name": "Ken Arai",
+    "mapper_name": "Rakuen",
+    "song_name": "NEXT TO YOU",
+    "no_video": false
+  },
+  {
+    "song_id": 1905695,
+    "artist_name": "結束バンド",
+    "mapper_name": "Mahiru Shiina",
+    "song_name": "あのバンド (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1913459,
+    "artist_name": "結束バンド",
+    "mapper_name": "Saggin",
+    "song_name": "小さな海",
+    "no_video": false
+  },
+  {
+    "song_id": 1874060,
+    "artist_name": "結束バンド",
+    "mapper_name": "[-Shabondama-]",
+    "song_name": "Distortion!! (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1904946,
+    "artist_name": "結束バンド",
+    "mapper_name": "Amiichii",
+    "song_name": "Distortion!! (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1894409,
+    "artist_name": "結束バンド",
+    "mapper_name": "Nabi-",
+    "song_name": "ギターと孤独と蒼い惑星",
+    "no_video": false
+  },
+  {
+    "song_id": 1880007,
+    "artist_name": "結束バンド",
+    "mapper_name": "ponbot",
+    "song_name": "ギターと孤独と蒼い惑星",
+    "no_video": false
+  },
+  {
+    "song_id": 1879988,
+    "artist_name": "結束バンド",
+    "mapper_name": "Saggin",
+    "song_name": "ギターと孤独と蒼い惑星",
+    "no_video": false
+  },
+  {
+    "song_id": 1888886,
+    "artist_name": "結束バンド",
+    "mapper_name": "Shurelia",
+    "song_name": "ギターと孤独と蒼い惑星",
+    "no_video": false
+  },
+  {
+    "song_id": 2004303,
+    "artist_name": "結束バンド",
+    "mapper_name": "Shirahane Suou",
+    "song_name": "光の中へ",
+    "no_video": false
+  },
+  {
+    "song_id": 1898410,
+    "artist_name": "結束バンド",
+    "mapper_name": "chaser01",
+    "song_name": "カラカラ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1911871,
+    "artist_name": "結束バンド",
+    "mapper_name": "KeyWee",
+    "song_name": "カラカラ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1876870,
+    "artist_name": "結束バンド",
+    "mapper_name": "VINXIS",
+    "song_name": "カラカラ",
+    "no_video": false
+  },
+  {
+    "song_id": 1909420,
+    "artist_name": "結束バンド",
+    "mapper_name": "pnky",
+    "song_name": "転がる岩、君に朝が降る",
+    "no_video": false
+  },
+  {
+    "song_id": 1909798,
+    "artist_name": "結束バンド",
+    "mapper_name": "ponbot",
+    "song_name": "転がる岩、君に朝が降る",
+    "no_video": false
+  },
+  {
+    "song_id": 1910004,
+    "artist_name": "結束バンド",
+    "mapper_name": "pnky",
+    "song_name": "ラブソングが歌えない",
+    "no_video": false
+  },
+  {
+    "song_id": 1905497,
+    "artist_name": "結束バンド",
+    "mapper_name": "SuzumeAyase",
+    "song_name": "なにが悪い (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1863866,
+    "artist_name": "結束バンド",
+    "mapper_name": "_kotachi_",
+    "song_name": "青春コンプレックス",
+    "no_video": false
+  },
+  {
+    "song_id": 1867294,
+    "artist_name": "結束バンド",
+    "mapper_name": "Cami",
+    "song_name": "青春コンプレックス (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1891901,
+    "artist_name": "結束バンド",
+    "mapper_name": "chaser01",
+    "song_name": "青春コンプレックス (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1894317,
+    "artist_name": "結束バンド",
+    "mapper_name": "DenYi",
+    "song_name": "青春コンプレックス (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1888769,
+    "artist_name": "結束バンド",
+    "mapper_name": "Faputa",
+    "song_name": "青春コンプレックス (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1886769,
+    "artist_name": "結束バンド",
+    "mapper_name": "Nijika Ijichi",
+    "song_name": "青春コンプレックス (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1919446,
+    "artist_name": "結束バンド",
+    "mapper_name": "Mizunashi Akari",
+    "song_name": "星座になれたら (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1909993,
+    "artist_name": "結束バンド",
+    "mapper_name": "Matsuyuki Ame",
+    "song_name": "忘れてやらない",
+    "no_video": false
+  },
+  {
+    "song_id": 1880497,
+    "artist_name": "きくお",
+    "mapper_name": "Ucitysm",
+    "song_name": "そして君は月になった",
+    "no_video": false
+  },
+  {
+    "song_id": 1524363,
+    "artist_name": "キネマ106",
+    "mapper_name": "-Atri-",
+    "song_name": "烈花の翠緑",
+    "no_video": false
+  },
+  {
+    "song_id": 1155614,
+    "artist_name": "KIRA",
+    "mapper_name": "Daycore",
+    "song_name": "MONSTER (feat. GUMI)",
+    "no_video": false
+  },
+  {
+    "song_id": 1373644,
+    "artist_name": "北沢強兵 feat. 初音ミク",
+    "mapper_name": "-Sylvari",
+    "song_name": "ONIRIC",
+    "no_video": false
+  },
+  {
+    "song_id": 1248952,
+    "artist_name": "キズナアイ",
+    "mapper_name": "Kawashiro",
+    "song_name": "KING",
+    "no_video": false
+  },
+  {
+    "song_id": 1654172,
+    "artist_name": "コバソロ & 相沢",
+    "mapper_name": "Alty",
+    "song_name": "命に嫌われている。",
+    "no_video": false
+  },
+  {
+    "song_id": 1736484,
+    "artist_name": "此花亭仲居の会",
+    "mapper_name": "Ihram-San",
+    "song_name": "春ウララ、君ト咲キ誇ル (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 219380,
+    "artist_name": "こぬこ",
+    "mapper_name": "Awaken",
+    "song_name": "透明エレジー",
+    "no_video": false
+  },
+  {
+    "song_id": 1995596,
+    "artist_name": "Kotoha",
+    "mapper_name": "Garden",
+    "song_name": "雪は何色",
+    "no_video": false
+  },
+  {
+    "song_id": 2004195,
+    "artist_name": "Kotoha",
+    "mapper_name": "tomatas95",
+    "song_name": "雪は何色",
+    "no_video": false
+  },
+  {
+    "song_id": 1862243,
+    "artist_name": "Kotoha",
+    "mapper_name": "achyoo",
+    "song_name": "絶頂讃歌",
+    "no_video": false
+  },
+  {
+    "song_id": 622780,
+    "artist_name": "KOTOKO",
+    "mapper_name": "Crystal",
+    "song_name": "恋ひ恋ふ縁",
+    "no_video": false
+  },
+  {
+    "song_id": 1649250,
+    "artist_name": "KOTOKO",
+    "mapper_name": "deta5859",
+    "song_name": "恋ひ恋ふ縁 (Game Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 398134,
+    "artist_name": "KOTOKO",
+    "mapper_name": "Gaia",
+    "song_name": "Light My Fire (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1932908,
+    "artist_name": "KOTOKO",
+    "mapper_name": "dragonicz",
+    "song_name": "Princess Brave!",
+    "no_video": false
+  },
+  {
+    "song_id": 1411131,
+    "artist_name": "KOTOKO",
+    "mapper_name": "mynt",
+    "song_name": "SWEET×SWEET",
+    "no_video": false
+  },
+  {
+    "song_id": 1838789,
+    "artist_name": "幸田夢波",
+    "mapper_name": "kunka",
+    "song_name": "TWO BY TWO (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 50771,
+    "artist_name": "",
+    "mapper_name": "LoliSora",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 552457,
+    "artist_name": "黒皇帝",
+    "mapper_name": "CHARGE",
+    "song_name": "Chronostasis",
+    "no_video": false
+  },
+  {
+    "song_id": 332112,
+    "artist_name": "黒崎真音",
+    "mapper_name": "jonathanlfj",
+    "song_name": "刹那の果実",
+    "no_video": false
+  },
+  {
+    "song_id": 856774,
+    "artist_name": "黒うさP feat. 初音ミク",
+    "mapper_name": "Critical_Star",
+    "song_name": "千本桜 (CLAWZ Bootleg Mix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1113378,
+    "artist_name": "KyoKa",
+    "mapper_name": "-Atri-",
+    "song_name": "きらめき＊Chocolaterie",
+    "no_video": false
+  },
+  {
+    "song_id": 1922550,
+    "artist_name": "KyoKa",
+    "mapper_name": "eringiRa",
+    "song_name": "きらめき＊Chocolaterie",
+    "no_video": false
+  },
+  {
+    "song_id": 1370640,
+    "artist_name": "Laura Shigihara",
+    "mapper_name": "itzKira811",
+    "song_name": "Loonboon",
+    "no_video": false
+  },
+  {
+    "song_id": 782989,
+    "artist_name": "LeaF",
+    "mapper_name": "eiri-",
+    "song_name": "Alice in Misanthrope -厭世アリス-",
+    "no_video": false
+  },
+  {
+    "song_id": 1156514,
+    "artist_name": "LeaF",
+    "mapper_name": "greenhue",
+    "song_name": "Arianrhod",
+    "no_video": false
+  },
+  {
+    "song_id": 366362,
+    "artist_name": "LeaF",
+    "mapper_name": "Ichigaki",
+    "song_name": "Arianrhod",
+    "no_video": false
+  },
+  {
+    "song_id": 1163990,
+    "artist_name": "LeaF",
+    "mapper_name": "Riana",
+    "song_name": "Arianrhod",
+    "no_video": false
+  },
+  {
+    "song_id": 96103,
+    "artist_name": "LeaF",
+    "mapper_name": "Flower",
+    "song_name": "Calamity Fortune",
+    "no_video": false
+  },
+  {
+    "song_id": 440997,
+    "artist_name": "LeaF",
+    "mapper_name": "Anxient",
+    "song_name": "Evanescent",
+    "no_video": false
+  },
+  {
+    "song_id": 99244,
+    "artist_name": "LeaF",
+    "mapper_name": "Maddy",
+    "song_name": "I",
+    "no_video": false
+  },
+  {
+    "song_id": 1136149,
+    "artist_name": "LeaF",
+    "mapper_name": "Yugu",
+    "song_name": "MARENOL",
+    "no_video": false
+  },
+  {
+    "song_id": 106212,
+    "artist_name": "LeaF",
+    "mapper_name": "Alumetorz",
+    "song_name": "MEPHISTO",
+    "no_video": false
+  },
+  {
+    "song_id": 1097600,
+    "artist_name": "LeaF",
+    "mapper_name": "Hey lululu",
+    "song_name": "もぺもぺ",
+    "no_video": false
+  },
+  {
+    "song_id": 1154288,
+    "artist_name": "LeaF",
+    "mapper_name": "Raveille",
+    "song_name": "もぺもぺ",
+    "no_video": false
+  },
+  {
+    "song_id": 1130436,
+    "artist_name": "LeaF",
+    "mapper_name": "Flask",
+    "song_name": "Poison AND÷OR Affection",
+    "no_video": false
+  },
+  {
+    "song_id": 336099,
+    "artist_name": "LeaF",
+    "mapper_name": "Asahina Momoko",
+    "song_name": "Wizdomiot",
+    "no_video": false
+  },
+  {
+    "song_id": 1793916,
+    "artist_name": "Leo/need × 初音ミク",
+    "mapper_name": "Yuiazu-",
+    "song_name": "ヒバナ -Reloaded-",
+    "no_video": false
+  },
+  {
+    "song_id": 337527,
+    "artist_name": "Lia",
+    "mapper_name": "Homura-",
+    "song_name": "Bravely You (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1284108,
+    "artist_name": "Lia",
+    "mapper_name": "Petal",
+    "song_name": "My Soul, Your Beats! (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1964734,
+    "artist_name": "Lia",
+    "mapper_name": "Ideal",
+    "song_name": "鳥の詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1837955,
+    "artist_name": "Lime",
+    "mapper_name": "iRedi",
+    "song_name": "Smiling",
+    "no_video": false
+  },
+  {
+    "song_id": 277421,
+    "artist_name": "Lindsey Stirling",
+    "mapper_name": "MrSergio",
+    "song_name": "Senbonzakura",
+    "no_video": false
+  },
+  {
+    "song_id": 1442901,
+    "artist_name": "LiSA",
+    "mapper_name": "Paran",
+    "song_name": "紅蓮華 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 155945,
+    "artist_name": "livetune",
+    "mapper_name": "Sonico Makaron",
+    "song_name": "DECORATOR",
+    "no_video": false
+  },
+  {
+    "song_id": 1486643,
+    "artist_name": "love solfege",
+    "mapper_name": "Chizu-Kun",
+    "song_name": "Vanity Clock",
+    "no_video": false
+  },
+  {
+    "song_id": 1780572,
+    "artist_name": "ЛОВИМОМЕНТ",
+    "mapper_name": "Daycore",
+    "song_name": "НА ПАМЯТЬ",
+    "no_video": false
+  },
+  {
+    "song_id": 1807736,
+    "artist_name": "Luna",
+    "mapper_name": "Fushimi Rio",
+    "song_name": "刻ト詩",
+    "no_video": false
+  },
+  {
+    "song_id": 1115796,
+    "artist_name": "M2U",
+    "mapper_name": "NanaTic",
+    "song_name": "Seeker",
+    "no_video": false
+  },
+  {
+    "song_id": 1697008,
+    "artist_name": "Mabinogi",
+    "mapper_name": "Kuangmozhazha",
+    "song_name": "Death Melody",
+    "no_video": false
+  },
+  {
+    "song_id": 1560617,
+    "artist_name": "町田ちま",
+    "mapper_name": "Yugu",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 315799,
+    "artist_name": "窓付き＠",
+    "mapper_name": "sheela901",
+    "song_name": "いかないで",
+    "no_video": false
+  },
+  {
+    "song_id": 1489661,
+    "artist_name": "まふまふ",
+    "mapper_name": "Mononymous",
+    "song_name": "グッバイ宣言",
+    "no_video": false
+  },
+  {
+    "song_id": 829296,
+    "artist_name": "まふまふ",
+    "mapper_name": "KazuhikoRei",
+    "song_name": "命に嫌われている。",
+    "no_video": false
+  },
+  {
+    "song_id": 1263393,
+    "artist_name": "まふまふ feat. nqrse",
+    "mapper_name": "OneShotFox",
+    "song_name": "KING",
+    "no_video": false
+  },
+  {
+    "song_id": 872310,
+    "artist_name": "Maki Ligon & Karamitasu",
+    "mapper_name": "Testo",
+    "song_name": "Touhou vs. Fortnite Dance Compilation",
+    "no_video": false
+  },
+  {
+    "song_id": 575271,
+    "artist_name": "Manau Miwa & Bruno Wen Li",
+    "mapper_name": "letam89101",
+    "song_name": "Yosuga No Sora OST - Old Memory",
+    "no_video": false
+  },
+  {
+    "song_id": 1731654,
+    "artist_name": "Maozon",
+    "mapper_name": "VoiceCore",
+    "song_name": "Stasis",
+    "no_video": false
+  },
+  {
+    "song_id": 1929219,
+    "artist_name": "高野麻里佳",
+    "mapper_name": "Didah",
+    "song_name": "夢みたい、でも夢じゃない",
+    "no_video": false
+  },
+  {
+    "song_id": 777891,
+    "artist_name": "Marina Rios",
+    "mapper_name": "Seto Kousuke",
+    "song_name": "サリシノハラ",
+    "no_video": false
+  },
+  {
+    "song_id": 1240877,
+    "artist_name": "めありー",
+    "mapper_name": "Hakku",
+    "song_name": "Henceforth",
+    "no_video": false
+  },
+  {
+    "song_id": 1409421,
+    "artist_name": "めありー",
+    "mapper_name": "KeyWee",
+    "song_name": "キミノヨゾラ哨戒班",
+    "no_video": false
+  },
+  {
+    "song_id": 1939205,
+    "artist_name": "めありー",
+    "mapper_name": "Silky",
+    "song_name": "ビビッド",
+    "no_video": false
+  },
+  {
+    "song_id": 18260,
+    "artist_name": "",
+    "mapper_name": "ouranhshc",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1690030,
+    "artist_name": "鈴木雅之",
+    "mapper_name": "Kibitz",
+    "song_name": "DADDY ! DADDY ! DO ! feat. 鈴木愛理 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 448736,
+    "artist_name": "松本文紀",
+    "mapper_name": "Ultimate Madoka",
+    "song_name": "ZYPRESSENは櫻に変わる",
+    "no_video": false
+  },
+  {
+    "song_id": 1833756,
+    "artist_name": "МЭЙБИ БЭЙБИ",
+    "mapper_name": "Astrolis",
+    "song_name": "Nya-Nya-Nya ^ω^",
+    "no_video": false
+  },
+  {
+    "song_id": 41017,
+    "artist_name": "",
+    "mapper_name": "Megurine Luka",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 76623,
+    "artist_name": "Meiko",
+    "mapper_name": "vipto",
+    "song_name": "Leave The Lights On (KROT Remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1601762,
+    "artist_name": "めらみぽっぷ×nayuta",
+    "mapper_name": "YuEast 2018",
+    "song_name": "サクラドライヴ",
+    "no_video": false
+  },
+  {
+    "song_id": 1794345,
+    "artist_name": "Middle Idol",
+    "mapper_name": "Daycore",
+    "song_name": "Инсайт",
+    "no_video": false
+  },
+  {
+    "song_id": 1827010,
+    "artist_name": "Midnight Grand Orchestra",
+    "mapper_name": "Amateurre",
+    "song_name": "Allegro",
+    "no_video": false
+  },
+  {
+    "song_id": 1850518,
+    "artist_name": "Midnight Grand Orchestra",
+    "mapper_name": "Amateurre",
+    "song_name": "Moonlightspeed",
+    "no_video": false
+  },
+  {
+    "song_id": 1682403,
+    "artist_name": "みきとP",
+    "mapper_name": "-Amia-",
+    "song_name": "少女レイ",
+    "no_video": false
+  },
+  {
+    "song_id": 586296,
+    "artist_name": "沢井美空",
+    "mapper_name": "Shad0w1and",
+    "song_name": "カラフル。（AnimeVer.）",
+    "no_video": false
+  },
+  {
+    "song_id": 1889288,
+    "artist_name": "Mili",
+    "mapper_name": "AnatharaX",
+    "song_name": "Bulbel",
+    "no_video": false
+  },
+  {
+    "song_id": 1873329,
+    "artist_name": "Mili",
+    "mapper_name": "AnatharaX",
+    "song_name": "Dandelion Girls, Dandelion Boys",
+    "no_video": false
+  },
+  {
+    "song_id": 1928286,
+    "artist_name": "Mili",
+    "mapper_name": "SMOKELIND",
+    "song_name": "world.execute(me);",
+    "no_video": false
+  },
+  {
+    "song_id": 1751796,
+    "artist_name": "MIMI",
+    "mapper_name": "Reiszen",
+    "song_name": "ぎゅって",
+    "no_video": false
+  },
+  {
+    "song_id": 1676605,
+    "artist_name": "MIMI",
+    "mapper_name": "ThunderBird2678",
+    "song_name": "くうになる",
+    "no_video": false
+  },
+  {
+    "song_id": 1676481,
+    "artist_name": "MIMI",
+    "mapper_name": "Vanya2",
+    "song_name": "くうになる",
+    "no_video": false
+  },
+  {
+    "song_id": 1121028,
+    "artist_name": "MIMI",
+    "mapper_name": "Onegai",
+    "song_name": "ラピスラズリ (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1206296,
+    "artist_name": "MIMI",
+    "mapper_name": "Nozhomi",
+    "song_name": "水音とカーテン",
+    "no_video": false
+  },
+  {
+    "song_id": 1151466,
+    "artist_name": "MIMI",
+    "mapper_name": "eiri-",
+    "song_name": "何もない様な",
+    "no_video": false
+  },
+  {
+    "song_id": 1400312,
+    "artist_name": "MIMI",
+    "mapper_name": "Hivie",
+    "song_name": "静寂に咲く (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1159718,
+    "artist_name": "MIMI",
+    "mapper_name": "eiri-",
+    "song_name": "静寂に咲く",
+    "no_video": false
+  },
+  {
+    "song_id": 952409,
+    "artist_name": "MIMI feat. 初音ミク",
+    "mapper_name": "Log Off Now",
+    "song_name": "哀の隙間",
+    "no_video": false
+  },
+  {
+    "song_id": 962088,
+    "artist_name": "MIMI feat. 初音ミク",
+    "mapper_name": "Log Off Now",
+    "song_name": "マシュマリー",
+    "no_video": false
+  },
+  {
+    "song_id": 1001653,
+    "artist_name": "MIMI feat. 初音ミク",
+    "mapper_name": "Mak Kau Hijau",
+    "song_name": "水音とカーテン",
+    "no_video": false
+  },
+  {
+    "song_id": 972764,
+    "artist_name": "水瀬ましろ",
+    "mapper_name": "JBHyperion",
+    "song_name": "砂のこども",
+    "no_video": false
+  },
+  {
+    "song_id": 1079554,
+    "artist_name": "湊あくあ",
+    "mapper_name": "Amateurre",
+    "song_name": "ダダダダ天使",
+    "no_video": false
+  },
+  {
+    "song_id": 1448237,
+    "artist_name": "湊あくあ",
+    "mapper_name": "Amateurre",
+    "song_name": "グッバイ宣言",
+    "no_video": false
+  },
+  {
+    "song_id": 1765293,
+    "artist_name": "湊あくあ",
+    "mapper_name": "DenYi",
+    "song_name": "インドア系ならトラックメイカー",
+    "no_video": false
+  },
+  {
+    "song_id": 1827994,
+    "artist_name": "湊あくあ",
+    "mapper_name": "-Atri-",
+    "song_name": "未だ、青い",
+    "no_video": false
+  },
+  {
+    "song_id": 1825062,
+    "artist_name": "湊あくあ",
+    "mapper_name": "Rivals_7",
+    "song_name": "未だ、青い",
+    "no_video": false
+  },
+  {
+    "song_id": 1934280,
+    "artist_name": "Minstrel",
+    "mapper_name": "Hinsvar",
+    "song_name": "futuristic recollection",
+    "no_video": false
+  },
+  {
+    "song_id": 1829046,
+    "artist_name": "Mitchie M feat. 初音ミク",
+    "mapper_name": "HimitsuHiketsu",
+    "song_name": "好き！雪！本気マジック",
+    "no_video": false
+  },
+  {
+    "song_id": 682665,
+    "artist_name": "Mitchie M feat.初音ミク",
+    "mapper_name": "Sinnoh",
+    "song_name": "好き！雪！本気マジック",
+    "no_video": false
+  },
+  {
+    "song_id": 1585962,
+    "artist_name": "ミツキヨ",
+    "mapper_name": "_Rokii",
+    "song_name": "Constant Moderato",
+    "no_video": false
+  },
+  {
+    "song_id": 1715668,
+    "artist_name": "ミツキヨ",
+    "mapper_name": "Felicis",
+    "song_name": "Unwelcome School",
+    "no_video": false
+  },
+  {
+    "song_id": 1228135,
+    "artist_name": "Mittsies",
+    "mapper_name": "Lirai",
+    "song_name": "Vitality (t+pazolite Remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1713484,
+    "artist_name": "宮本浩次",
+    "mapper_name": "Robinia",
+    "song_name": "冬の花",
+    "no_video": false
+  },
+  {
+    "song_id": 1983969,
+    "artist_name": "桃原奈月 (CV: 村川梨衣)",
+    "mapper_name": "AndreyChomik",
+    "song_name": "青空に紙ヒコーキ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1640945,
+    "artist_name": "monet",
+    "mapper_name": "Lasse",
+    "song_name": "ちいさなしあわせ",
+    "no_video": false
+  },
+  {
+    "song_id": 1525361,
+    "artist_name": "monet",
+    "mapper_name": "Rhythmical",
+    "song_name": "鏡の世界には私しかいない　-another version-",
+    "no_video": false
+  },
+  {
+    "song_id": 728291,
+    "artist_name": "monet",
+    "mapper_name": "Mirash",
+    "song_name": "神と旋律",
+    "no_video": false
+  },
+  {
+    "song_id": 1220443,
+    "artist_name": "monet",
+    "mapper_name": "Luscent",
+    "song_name": "ナグルファルの船上にて",
+    "no_video": false
+  },
+  {
+    "song_id": 671607,
+    "artist_name": "monet",
+    "mapper_name": "Mirash",
+    "song_name": "登れない坂道",
+    "no_video": false
+  },
+  {
+    "song_id": 946952,
+    "artist_name": "monet",
+    "mapper_name": "skidzah",
+    "song_name": "Noborenai Sakamichi (\"Rates Pack\")",
+    "no_video": false
+  },
+  {
+    "song_id": 1212153,
+    "artist_name": "monet",
+    "mapper_name": "rinuko",
+    "song_name": "PicaPica",
+    "no_video": false
+  },
+  {
+    "song_id": 1674128,
+    "artist_name": "monet",
+    "mapper_name": "seros",
+    "song_name": "祝福された街",
+    "no_video": false
+  },
+  {
+    "song_id": 1774997,
+    "artist_name": "monet",
+    "mapper_name": "Kowari",
+    "song_name": "飛べない魔法使い",
+    "no_video": false
+  },
+  {
+    "song_id": 1251587,
+    "artist_name": "monet",
+    "mapper_name": "Gust",
+    "song_name": "ZYPRESSENの花束",
+    "no_video": false
+  },
+  {
+    "song_id": 1681655,
+    "artist_name": "MORE MORE JUMP！× 初音ミク",
+    "mapper_name": "Yuiazu-",
+    "song_name": "モア！ジャンプ！モア！",
+    "no_video": false
+  },
+  {
+    "song_id": 1686759,
+    "artist_name": "MORE MORE JUMP！× 巡音ルカ",
+    "mapper_name": "Sun",
+    "song_name": "Color of Drops",
+    "no_video": true
+  },
+  {
+    "song_id": 1089149,
+    "artist_name": "モリモリあつし",
+    "mapper_name": "IOException",
+    "song_name": "遠野幻想物語 (MRM REMIX)",
+    "no_video": false
+  },
+  {
+    "song_id": 1423112,
+    "artist_name": "中野三玖 (CV: 伊藤美来)",
+    "mapper_name": "Drum-Hitnormal",
+    "song_name": "君が好き～Three Feelings～",
+    "no_video": false
+  },
+  {
+    "song_id": 1330999,
+    "artist_name": "中野家の五つ子",
+    "mapper_name": "Mimari",
+    "song_name": "五等分のカタチ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1925249,
+    "artist_name": "中野家の五つ子",
+    "mapper_name": "Savageeeee",
+    "song_name": "五等分のカタチ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1470790,
+    "artist_name": "百鬼あやめ",
+    "mapper_name": "AyameMyMommy",
+    "song_name": "グッバイ宣言",
+    "no_video": false
+  },
+  {
+    "song_id": 723730,
+    "artist_name": "nameless",
+    "mapper_name": "Sotarks",
+    "song_name": "透明エレジー",
+    "no_video": false
+  },
+  {
+    "song_id": 416702,
+    "artist_name": "nameless×とあ",
+    "mapper_name": "Taeyang",
+    "song_name": "ツギハギスタッカート",
+    "no_video": false
+  },
+  {
+    "song_id": 663385,
+    "artist_name": "nameless×とあ",
+    "mapper_name": "victorfernando",
+    "song_name": "ツギハギスタッカート",
+    "no_video": false
+  },
+  {
+    "song_id": 954272,
+    "artist_name": "*namirin",
+    "mapper_name": "Left",
+    "song_name": "完全勝利☆エスパーガール",
+    "no_video": false
+  },
+  {
+    "song_id": 580328,
+    "artist_name": "＊なみりん",
+    "mapper_name": "SurfChu85",
+    "song_name": "回る空うさぎ",
+    "no_video": false
+  },
+  {
+    "song_id": 405570,
+    "artist_name": "＊なみりん",
+    "mapper_name": "Kibbleru",
+    "song_name": "優しさの理由",
+    "no_video": false
+  },
+  {
+    "song_id": 1181237,
+    "artist_name": "ななひら",
+    "mapper_name": "Rhezie",
+    "song_name": "爆売れ!マッチ売りの派遣少女 (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1326344,
+    "artist_name": "ナナヲアカリ",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "ダダダダ天使 (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1974446,
+    "artist_name": "なんかの人",
+    "mapper_name": "GDBlack",
+    "song_name": "ねちがえた。",
+    "no_video": false
+  },
+  {
+    "song_id": 1972109,
+    "artist_name": "Nardis",
+    "mapper_name": "Robinia",
+    "song_name": "Spencer (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 143397,
+    "artist_name": "なつめ千秋",
+    "mapper_name": "rinsukir",
+    "song_name": "花色日和",
+    "no_video": false
+  },
+  {
+    "song_id": 1341232,
+    "artist_name": "nayuta",
+    "mapper_name": "Nana Abe",
+    "song_name": "星と恋するコンチェルト",
+    "no_video": false
+  },
+  {
+    "song_id": 1982768,
+    "artist_name": "nayuta",
+    "mapper_name": "Ppass",
+    "song_name": "強風オールバック",
+    "no_video": false
+  },
+  {
+    "song_id": 751553,
+    "artist_name": "nayuta",
+    "mapper_name": "Virtue-",
+    "song_name": "滲色血界、月狂ノ獄",
+    "no_video": false
+  },
+  {
+    "song_id": 1426019,
+    "artist_name": "NceS",
+    "mapper_name": "Fryndazs",
+    "song_name": "Burn (Haocore Mix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1972414,
+    "artist_name": "Neko Hacker",
+    "mapper_name": "Amiichii",
+    "song_name": "刹那の誓い (feat. 由崎司 (CV: 鬼頭明里)) (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1819607,
+    "artist_name": "Neko Hacker",
+    "mapper_name": "Nevertary",
+    "song_name": "Shadows feat. Such",
+    "no_video": false
+  },
+  {
+    "song_id": 1767514,
+    "artist_name": "Neko Hacker",
+    "mapper_name": "Shiino",
+    "song_name": "Shadows feat. Such",
+    "no_video": false
+  },
+  {
+    "song_id": 1262361,
+    "artist_name": "Neru",
+    "mapper_name": "-Ken",
+    "song_name": "病名は愛だった",
+    "no_video": false
+  },
+  {
+    "song_id": 254581,
+    "artist_name": "Nightmare",
+    "mapper_name": "MasterSonic10",
+    "song_name": "Boulafacet",
+    "no_video": false
+  },
+  {
+    "song_id": 1800930,
+    "artist_name": "Noah",
+    "mapper_name": "Noch Einen",
+    "song_name": "Deadly force",
+    "no_video": false
+  },
+  {
+    "song_id": 623924,
+    "artist_name": "乃木坂46",
+    "mapper_name": "Nevo",
+    "song_name": "指望遠鏡～アニメ版～",
+    "no_video": false
+  },
+  {
+    "song_id": 1805268,
+    "artist_name": "Nothing But Requiem with Museo",
+    "mapper_name": "Murumoo",
+    "song_name": "Pentiment",
+    "no_video": false
+  },
+  {
+    "song_id": 703956,
+    "artist_name": "Nothing But Thieves",
+    "mapper_name": "appleeaterx",
+    "song_name": "Amsterdam",
+    "no_video": false
+  },
+  {
+    "song_id": 1075635,
+    "artist_name": "Numtack05",
+    "mapper_name": "Mafumafu",
+    "song_name": "おおきなはねで！(Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1886230,
+    "artist_name": "nyankobrq",
+    "mapper_name": "Ogura Yui",
+    "song_name": "Snorkel",
+    "no_video": false
+  },
+  {
+    "song_id": 1885207,
+    "artist_name": "哦呼w",
+    "mapper_name": "AelSan",
+    "song_name": "国风鸡你太美（哦呼w remix）",
+    "no_video": false
+  },
+  {
+    "song_id": 660630,
+    "artist_name": "Ocelot",
+    "mapper_name": "Hollow Wings",
+    "song_name": "KAEDE",
+    "no_video": false
+  },
+  {
+    "song_id": 1372477,
+    "artist_name": "小倉唯",
+    "mapper_name": "-Atri-",
+    "song_name": "Clear Morning",
+    "no_video": false
+  },
+  {
+    "song_id": 1676255,
+    "artist_name": "小倉唯",
+    "mapper_name": "newton-",
+    "song_name": "Clear Morning",
+    "no_video": false
+  },
+  {
+    "song_id": 1373879,
+    "artist_name": "小倉唯",
+    "mapper_name": "Yuuma",
+    "song_name": "Clear Morning",
+    "no_video": false
+  },
+  {
+    "song_id": 1363149,
+    "artist_name": "大原ゆい子",
+    "mapper_name": "Kibbleru",
+    "song_name": "旅人の唄 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1333833,
+    "artist_name": "大倉明日香",
+    "mapper_name": "buddon",
+    "song_name": "Prime number ～君と出会える日～ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1911653,
+    "artist_name": "ONIMAI SISTERS",
+    "mapper_name": "Faputa",
+    "song_name": "ひめごと＊クライシスターズ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 219728,
+    "artist_name": "Orangestar",
+    "mapper_name": "Gelbana",
+    "song_name": "アスノヨゾラ哨戒班",
+    "no_video": false
+  },
+  {
+    "song_id": 480945,
+    "artist_name": "Orangestar",
+    "mapper_name": "kanor",
+    "song_name": "キミノヨゾラ哨戒班",
+    "no_video": false
+  },
+  {
+    "song_id": 583277,
+    "artist_name": "Orangestar",
+    "mapper_name": "newton-",
+    "song_name": "キミノヨゾラ哨戒班",
+    "no_video": false
+  },
+  {
+    "song_id": 1054381,
+    "artist_name": "Orangestar",
+    "mapper_name": "Irin",
+    "song_name": "二次元の女の子に恋をしてしまって辛い…w",
+    "no_video": false
+  },
+  {
+    "song_id": 1690816,
+    "artist_name": "Orangestar",
+    "mapper_name": "Rycy",
+    "song_name": "Surges",
+    "no_video": false
+  },
+  {
+    "song_id": 961477,
+    "artist_name": "弟の姉",
+    "mapper_name": "Yugu",
+    "song_name": "初音ミクの消失 -DEAD END-",
+    "no_video": false
+  },
+  {
+    "song_id": 332532,
+    "artist_name": "Panda Eyes & Teminite",
+    "mapper_name": "Fort",
+    "song_name": "Highscore",
+    "no_video": false
+  },
+  {
+    "song_id": 1571607,
+    "artist_name": "Pastel＊Palettes",
+    "mapper_name": "Al-Reina",
+    "song_name": "きゅ～まい＊flower",
+    "no_video": false
+  },
+  {
+    "song_id": 1577393,
+    "artist_name": "Pastel＊Palettes",
+    "mapper_name": "FerdiXIA-",
+    "song_name": "ゆめゆめグラデーション",
+    "no_video": false
+  },
+  {
+    "song_id": 1985368,
+    "artist_name": "ぺのれり",
+    "mapper_name": "ML-ysg",
+    "song_name": "Sailing Force",
+    "no_video": false
+  },
+  {
+    "song_id": 370467,
+    "artist_name": "petit milady",
+    "mapper_name": "Rizia",
+    "song_name": "ハコネハコイリムスメ",
+    "no_video": false
+  },
+  {
+    "song_id": 1674456,
+    "artist_name": "ピノキオピー",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "神っぽいな feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 1503962,
+    "artist_name": "PinocchioP",
+    "mapper_name": "asurastea",
+    "song_name": "Non-breath oblige (feat. Hatsune Miku)",
+    "no_video": false
+  },
+  {
+    "song_id": 931466,
+    "artist_name": "PinocchioP",
+    "mapper_name": "Haven",
+    "song_name": "What's Inside - 内臓ありますか",
+    "no_video": false
+  },
+  {
+    "song_id": 700927,
+    "artist_name": "Poppin’Party",
+    "mapper_name": "-Aqua",
+    "song_name": "クリスマスのうた",
+    "no_video": false
+  },
+  {
+    "song_id": 625045,
+    "artist_name": "Poppin'Party",
+    "mapper_name": "[Crz]Sword",
+    "song_name": "キラキラだとか夢だとか ～Sing Girls～ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 614346,
+    "artist_name": "Poppin'Party",
+    "mapper_name": "Nitrous",
+    "song_name": "キラキラだとか夢だとか ～Sing Girls～ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1909526,
+    "artist_name": "Poppin'Party",
+    "mapper_name": "-Xooti-",
+    "song_name": "Light Delight",
+    "no_video": false
+  },
+  {
+    "song_id": 650607,
+    "artist_name": "Poppin'Party",
+    "mapper_name": "[ L u k a s ]",
+    "song_name": "STAR BEAT!～ホシノコドウ～",
+    "no_video": false
+  },
+  {
+    "song_id": 658952,
+    "artist_name": "Poppin'Party",
+    "mapper_name": "Nitrous",
+    "song_name": "ときめきエクスペリエンス！ (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1991430,
+    "artist_name": "Poppin'Party×Pastel＊Palettes×Morfonica",
+    "mapper_name": "ML-ysg",
+    "song_name": "絆色のアンサンブル",
+    "no_video": false
+  },
+  {
+    "song_id": 284931,
+    "artist_name": "Porter Robinson",
+    "mapper_name": "Cyllinus",
+    "song_name": "Flicker",
+    "no_video": false
+  },
+  {
+    "song_id": 522660,
+    "artist_name": "Porter Robinson & Madeon",
+    "mapper_name": "Dellvangel",
+    "song_name": "Shelter",
+    "no_video": false
+  },
+  {
+    "song_id": 522857,
+    "artist_name": "Porter Robinson & Madeon",
+    "mapper_name": "Monstrata",
+    "song_name": "Shelter",
+    "no_video": false
+  },
+  {
+    "song_id": 1382635,
+    "artist_name": "PRACTICE",
+    "mapper_name": "YumiNee",
+    "song_name": "Skill Practice Map",
+    "no_video": false
+  },
+  {
+    "song_id": 1962117,
+    "artist_name": "QUARTET☆RE-BOOT!",
+    "mapper_name": "Nabi-",
+    "song_name": "FUN FUN RE-BOOT",
+    "no_video": false
+  },
+  {
+    "song_id": 1980579,
+    "artist_name": "女王蜂",
+    "mapper_name": "Syadow-",
+    "song_name": "メフィスト (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 2002277,
+    "artist_name": "R3 Music Box",
+    "mapper_name": "Ainer",
+    "song_name": "春待ちクローバー",
+    "no_video": false
+  },
+  {
+    "song_id": 1895206,
+    "artist_name": "r-906 feat. 音街ウナ",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "スーパーノヴァ",
+    "no_video": false
+  },
+  {
+    "song_id": 547714,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Haruto",
+    "song_name": "光",
+    "no_video": false
+  },
+  {
+    "song_id": 608723,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Monstrata",
+    "song_name": "かたわれ時",
+    "no_video": false
+  },
+  {
+    "song_id": 515939,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Monstrata",
+    "song_name": "なんでもないや",
+    "no_video": false
+  },
+  {
+    "song_id": 514204,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Lilyanna",
+    "song_name": "なんでもないや (movie ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1159567,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Emiru Ikuno 11",
+    "song_name": "スパークル [original ver.]",
+    "no_video": false
+  },
+  {
+    "song_id": 1060444,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "yahweh",
+    "song_name": "スパークル [original ver.]",
+    "no_video": false
+  },
+  {
+    "song_id": 1956955,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "ler1211",
+    "song_name": "すずめ feat. 十明",
+    "no_video": false
+  },
+  {
+    "song_id": 619531,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "eyes",
+    "song_name": "夢灯籠",
+    "no_video": false
+  },
+  {
+    "song_id": 518660,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Mat",
+    "song_name": "夢灯籠",
+    "no_video": false
+  },
+  {
+    "song_id": 597111,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Monstrata",
+    "song_name": "夢灯籠",
+    "no_video": false
+  },
+  {
+    "song_id": 515069,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "NoHitter",
+    "song_name": "夢灯籠",
+    "no_video": false
+  },
+  {
+    "song_id": 513590,
+    "artist_name": "RADWIMPS",
+    "mapper_name": "Monstrata",
+    "song_name": "前前前世 (movie ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 329814,
+    "artist_name": "Raika",
+    "mapper_name": "LordRaika",
+    "song_name": "Long Note Practice Pack",
+    "no_video": false
+  },
+  {
+    "song_id": 293098,
+    "artist_name": "Rameses B",
+    "mapper_name": "alacat",
+    "song_name": "Timeless ft. Veela",
+    "no_video": false
+  },
+  {
+    "song_id": 1876954,
+    "artist_name": "라온",
+    "mapper_name": "Log Off Now",
+    "song_name": "BE the HERO (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 684221,
+    "artist_name": "Red Hot Chili Peppers",
+    "mapper_name": "h4d0uk3n1",
+    "song_name": "The Zephyr Song",
+    "no_video": false
+  },
+  {
+    "song_id": 1842481,
+    "artist_name": "REDALiCE feat. MONICO",
+    "mapper_name": "Amamya",
+    "song_name": "Breakin' Chain",
+    "no_video": false
+  },
+  {
+    "song_id": 1759673,
+    "artist_name": "rei sirose",
+    "mapper_name": "Lunicia",
+    "song_name": "はきだす",
+    "no_video": false
+  },
+  {
+    "song_id": 1337032,
+    "artist_name": "Remo Prototype [CV.Hanamori Yumiri]",
+    "mapper_name": "Magikarp1234",
+    "song_name": "センダンライフ (かたぎり Bootleg)",
+    "no_video": false
+  },
+  {
+    "song_id": 429911,
+    "artist_name": "リモ Prototype[CV：花守ゆみり]",
+    "mapper_name": "Hestiaaa",
+    "song_name": "Sendan Life",
+    "no_video": false
+  },
+  {
+    "song_id": 1418780,
+    "artist_name": "廉 feat. 初音ミク",
+    "mapper_name": "Log Off Now",
+    "song_name": "冬月、凜然に帰す。",
+    "no_video": false
+  },
+  {
+    "song_id": 579307,
+    "artist_name": "上原れな",
+    "mapper_name": "Shad0w1and",
+    "song_name": "届かない恋",
+    "no_video": false
+  },
+  {
+    "song_id": 661483,
+    "artist_name": "れをる",
+    "mapper_name": "Sotarks",
+    "song_name": "MONSTER",
+    "no_video": false
+  },
+  {
+    "song_id": 1607429,
+    "artist_name": "Rick Astley",
+    "mapper_name": "davidminh0111",
+    "song_name": "Never Gonna Give You Up",
+    "no_video": false
+  },
+  {
+    "song_id": 1420479,
+    "artist_name": "リゲル",
+    "mapper_name": "JeZag",
+    "song_name": "deltaTime",
+    "no_video": false
+  },
+  {
+    "song_id": 1113120,
+    "artist_name": "凛",
+    "mapper_name": "Lasse",
+    "song_name": "Daishibyo set 08 〜 古きユアンシェン",
+    "no_video": false
+  },
+  {
+    "song_id": 1262466,
+    "artist_name": "凛",
+    "mapper_name": "Halfslashed",
+    "song_name": "Eientewi set 13 〜 エクステンドアッシュ",
+    "no_video": false
+  },
+  {
+    "song_id": 1282452,
+    "artist_name": "rionos",
+    "mapper_name": "rosario wknd",
+    "song_name": "ポケットをふくらませて",
+    "no_video": false
+  },
+  {
+    "song_id": 1814464,
+    "artist_name": "Risa Yuzuki",
+    "mapper_name": "gazimal",
+    "song_name": "Transparent ZERO",
+    "no_video": false
+  },
+  {
+    "song_id": 76396,
+    "artist_name": "ろひ",
+    "mapper_name": "NatsumeRin",
+    "song_name": "隔絶≡タナトス",
+    "no_video": false
+  },
+  {
+    "song_id": 690206,
+    "artist_name": "Roselia",
+    "mapper_name": "Underdogs",
+    "song_name": "Determination Symphony",
+    "no_video": false
+  },
+  {
+    "song_id": 595580,
+    "artist_name": "Roselia",
+    "mapper_name": "scanter",
+    "song_name": "LOUDER",
+    "no_video": false
+  },
+  {
+    "song_id": 1241753,
+    "artist_name": "Roselia",
+    "mapper_name": "GodKei",
+    "song_name": "Song I am.",
+    "no_video": false
+  },
+  {
+    "song_id": 664522,
+    "artist_name": "Roselia",
+    "mapper_name": "Underdogs",
+    "song_name": "The Everlasting Guilty Crown",
+    "no_video": false
+  },
+  {
+    "song_id": 1249436,
+    "artist_name": "緑黄色社会",
+    "mapper_name": "Haruto",
+    "song_name": "夏を生きる",
+    "no_video": false
+  },
+  {
+    "song_id": 183272,
+    "artist_name": "Ryu☆",
+    "mapper_name": "Spy",
+    "song_name": "Sakura Mirage",
+    "no_video": false
+  },
+  {
+    "song_id": 880854,
+    "artist_name": "相良心",
+    "mapper_name": "Reillia",
+    "song_name": "星空のいま",
+    "no_video": false
+  },
+  {
+    "song_id": 1776264,
+    "artist_name": "saikoro",
+    "mapper_name": "troyarmyfake",
+    "song_name": "far in the blue sky...",
+    "no_video": false
+  },
+  {
+    "song_id": 1175049,
+    "artist_name": "さくらみこ",
+    "mapper_name": "-Atri-",
+    "song_name": "サクラカゼ",
+    "no_video": false
+  },
+  {
+    "song_id": 1238144,
+    "artist_name": "さくゆい",
+    "mapper_name": "Yugu",
+    "song_name": "夜に駆ける",
+    "no_video": false
+  },
+  {
+    "song_id": 1149018,
+    "artist_name": "鎖那×000×めありー",
+    "mapper_name": "Yugu",
+    "song_name": "愛言葉Ⅲ",
+    "no_video": false
+  },
+  {
+    "song_id": 1793195,
+    "artist_name": "三月のパンタシア",
+    "mapper_name": "frozz",
+    "song_name": "四角運命 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1982229,
+    "artist_name": "佐咲紗花",
+    "mapper_name": "Murumoo",
+    "song_name": "Will of Adamant",
+    "no_video": false
+  },
+  {
+    "song_id": 1841579,
+    "artist_name": "sasakure.UK",
+    "mapper_name": "YuanLiang",
+    "song_name": "the EmpErroR",
+    "no_video": false
+  },
+  {
+    "song_id": 667433,
+    "artist_name": "sasakure.UK x DECO*27",
+    "mapper_name": "Finshie",
+    "song_name": "39",
+    "no_video": false
+  },
+  {
+    "song_id": 262339,
+    "artist_name": "sasakure.UK x DECO*27",
+    "mapper_name": "Raose",
+    "song_name": "39",
+    "no_video": false
+  },
+  {
+    "song_id": 1804812,
+    "artist_name": "sasakure.‌UK × TJ.hangneil",
+    "mapper_name": "Hey lululu",
+    "song_name": "魔王",
+    "no_video": false
+  },
+  {
+    "song_id": 375378,
+    "artist_name": "佐藤聡美",
+    "mapper_name": "Garden",
+    "song_name": "Le jour",
+    "no_video": false
+  },
+  {
+    "song_id": 1631835,
+    "artist_name": "SawanoHiroyuki[nZk]:Laco",
+    "mapper_name": "Smoke",
+    "song_name": "Hands Up to the Sky",
+    "no_video": false
+  },
+  {
+    "song_id": 1657916,
+    "artist_name": "神田沙也加",
+    "mapper_name": "AIR",
+    "song_name": "Alice in 冷凍庫",
+    "no_video": false
+  },
+  {
+    "song_id": 1807138,
+    "artist_name": "さユり",
+    "mapper_name": "Mrgglock",
+    "song_name": "花の塔",
+    "no_video": false
+  },
+  {
+    "song_id": 1804015,
+    "artist_name": "さユり",
+    "mapper_name": "Rtyzen",
+    "song_name": "花の塔 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1154783,
+    "artist_name": "Scott Lloyd Shelly",
+    "mapper_name": "wonjae",
+    "song_name": "Plantera",
+    "no_video": false
+  },
+  {
+    "song_id": 1406043,
+    "artist_name": "seleP",
+    "mapper_name": "Okoratu",
+    "song_name": "Segments Blue",
+    "no_video": false
+  },
+  {
+    "song_id": 1098451,
+    "artist_name": "senya",
+    "mapper_name": "[Crz]Rachel",
+    "song_name": "大地に咲く旋律",
+    "no_video": false
+  },
+  {
+    "song_id": 1189616,
+    "artist_name": "SEPHID",
+    "mapper_name": "DeviousPanda",
+    "song_name": "Critical Cannonball (Extended ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1154776,
+    "artist_name": "Se-U-Ra",
+    "mapper_name": "DarkistDeci",
+    "song_name": "終の舞姫",
+    "no_video": false
+  },
+  {
+    "song_id": 221768,
+    "artist_name": "Sharlo",
+    "mapper_name": "yf_bmp",
+    "song_name": "深海少女",
+    "no_video": false
+  },
+  {
+    "song_id": 310371,
+    "artist_name": "Sharlo",
+    "mapper_name": "Karen",
+    "song_name": "START:DASH!!",
+    "no_video": false
+  },
+  {
+    "song_id": 313718,
+    "artist_name": "Shawn Wasabi",
+    "mapper_name": "Exa",
+    "song_name": "Marble Soda",
+    "no_video": false
+  },
+  {
+    "song_id": 387784,
+    "artist_name": "Shawn Wasabi",
+    "mapper_name": "Len",
+    "song_name": "Marble Soda",
+    "no_video": false
+  },
+  {
+    "song_id": 39056,
+    "artist_name": "",
+    "mapper_name": "Frostmourne",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 53519,
+    "artist_name": "",
+    "mapper_name": "Frostmourne",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1901099,
+    "artist_name": "SHIKI",
+    "mapper_name": "-NoName-",
+    "song_name": "Xecus",
+    "no_video": false
+  },
+  {
+    "song_id": 974695,
+    "artist_name": "霜月はるか",
+    "mapper_name": "Lasse",
+    "song_name": "Loop Breaker",
+    "no_video": false
+  },
+  {
+    "song_id": 1492014,
+    "artist_name": "忍",
+    "mapper_name": "guashengzheliu",
+    "song_name": "紅い瞳に映るセカイ(Arrange ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 2149438,
+    "artist_name": "森羅万象",
+    "mapper_name": "Xzzj",
+    "song_name": "lunatic love baby you",
+    "no_video": false
+  },
+  {
+    "song_id": 48072,
+    "artist_name": "",
+    "mapper_name": "popner",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 449310,
+    "artist_name": "Shiraishi",
+    "mapper_name": "C h o p i n",
+    "song_name": "Shinsekai",
+    "no_video": false
+  },
+  {
+    "song_id": 12341,
+    "artist_name": "",
+    "mapper_name": "Louis Cyphre",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 2137985,
+    "artist_name": "椎名もた",
+    "mapper_name": "PaRaDogi",
+    "song_name": "少女A",
+    "no_video": false
+  },
+  {
+    "song_id": 96178,
+    "artist_name": "siromaru + cranky",
+    "mapper_name": "ishimaru94",
+    "song_name": "Conflict (Vocaloid Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1679635,
+    "artist_name": "Snail's House",
+    "mapper_name": "entshikkari",
+    "song_name": "Sunday",
+    "no_video": false
+  },
+  {
+    "song_id": 241526,
+    "artist_name": "Soleily",
+    "mapper_name": "Deif",
+    "song_name": "Renatus",
+    "no_video": false
+  },
+  {
+    "song_id": 85853,
+    "artist_name": "solfa feat. 茶太",
+    "mapper_name": "Flask",
+    "song_name": "カラフル precious life (Short Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1907991,
+    "artist_name": "solfa feat. 霜月はるか＋Ceui",
+    "mapper_name": "tomatas95",
+    "song_name": "STUDY§STEADY",
+    "no_video": false
+  },
+  {
+    "song_id": 1821354,
+    "artist_name": "Sound Souler",
+    "mapper_name": "[Sick]Catcat",
+    "song_name": "Flower of Destiny",
+    "no_video": false
+  },
+  {
+    "song_id": 363184,
+    "artist_name": "Spawn of Possession",
+    "mapper_name": "XeoStyle",
+    "song_name": "Apparition",
+    "no_video": false
+  },
+  {
+    "song_id": 1172436,
+    "artist_name": "SPYAIR",
+    "mapper_name": "Fall",
+    "song_name": "RAGE OF DUST (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 371128,
+    "artist_name": "Station Earth",
+    "mapper_name": "Bearizm",
+    "song_name": "Cold Green Eyes ft. Roos Denayer",
+    "no_video": false
+  },
+  {
+    "song_id": 325307,
+    "artist_name": "Stonebank",
+    "mapper_name": "Asserin",
+    "song_name": "The Pressure",
+    "no_video": false
+  },
+  {
+    "song_id": 362989,
+    "artist_name": "Street",
+    "mapper_name": "Cherry Blossom",
+    "song_name": "Sakura Fubuki",
+    "no_video": false
+  },
+  {
+    "song_id": 1963294,
+    "artist_name": "Sueco",
+    "mapper_name": "Rison",
+    "song_name": "Loser",
+    "no_video": false
+  },
+  {
+    "song_id": 834946,
+    "artist_name": "SUMMONERS 2+",
+    "mapper_name": "Yasaija 714",
+    "song_name": "DeCIDE (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1294231,
+    "artist_name": "孙艺琪",
+    "mapper_name": "Firika",
+    "song_name": "酒醉的蝴蝶 (DJ何鹏版) (Cut Ver.)",
+    "no_video": false
+  },
+  {
+    "song_id": 1831219,
+    "artist_name": "supercell",
+    "mapper_name": "Venix",
+    "song_name": "君の知らない物語 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1320333,
+    "artist_name": "supercell feat. 初音ミク",
+    "mapper_name": "celerih",
+    "song_name": "ワールドイズマイン",
+    "no_video": false
+  },
+  {
+    "song_id": 1650000,
+    "artist_name": "涼宮ハルヒ (CV: 平野綾)",
+    "mapper_name": "Luscent",
+    "song_name": "God knows...",
+    "no_video": false
+  },
+  {
+    "song_id": 362395,
+    "artist_name": "sweet ARMS",
+    "mapper_name": "- Bad Apple -",
+    "song_name": "インストレーション",
+    "no_video": false
+  },
+  {
+    "song_id": 73483,
+    "artist_name": "Syrufit & Poplica* ft. 綾倉盟",
+    "mapper_name": "Jenny",
+    "song_name": "Threat of rain",
+    "no_video": false
+  },
+  {
+    "song_id": 1883928,
+    "artist_name": "田村ゆかり",
+    "mapper_name": "Savageeeee",
+    "song_name": "W:Wonder Tale (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1248704,
+    "artist_name": "tarolabo feat. 小宮真央",
+    "mapper_name": "Shinitagari",
+    "song_name": "路上のギリジン -Shou+rt Mix-",
+    "no_video": false
+  },
+  {
+    "song_id": 1850548,
+    "artist_name": "TeddyLoid feat. DELTA",
+    "mapper_name": "Ssandi NImo",
+    "song_name": "Defection",
+    "no_video": false
+  },
+  {
+    "song_id": 1015169,
+    "artist_name": "Thaehan",
+    "mapper_name": "Nepuri",
+    "song_name": "Insert Coin",
+    "no_video": false
+  },
+  {
+    "song_id": 1258921,
+    "artist_name": "The Flashbulb",
+    "mapper_name": "Niko_Plays",
+    "song_name": "You Take the World's Weight Away",
+    "no_video": false
+  },
+  {
+    "song_id": 866493,
+    "artist_name": "The Red Army Choir",
+    "mapper_name": "Arf",
+    "song_name": "National Anthem Of The USSR",
+    "no_video": false
+  },
+  {
+    "song_id": 1480284,
+    "artist_name": "すりぃ feat. 初音ミク",
+    "mapper_name": "Wanpachi",
+    "song_name": "私、結局ネットに従順",
+    "no_video": false
+  },
+  {
+    "song_id": 1958525,
+    "artist_name": "Toby Fox",
+    "mapper_name": "Stardust Prism",
+    "song_name": "dogcheck",
+    "no_video": false
+  },
+  {
+    "song_id": 387700,
+    "artist_name": "toby fox",
+    "mapper_name": "Kyshiro",
+    "song_name": "MEGALOVANIA",
+    "no_video": false
+  },
+  {
+    "song_id": 1893725,
+    "artist_name": "Toccoyaki feat. somunia",
+    "mapper_name": "Rinze",
+    "song_name": "チャイナアドバイス (Llama bootleg remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1897551,
+    "artist_name": "東條希 (CV: 楠田亜衣奈)",
+    "mapper_name": "Crisper",
+    "song_name": "純愛レンズ",
+    "no_video": false
+  },
+  {
+    "song_id": 945395,
+    "artist_name": "とくP",
+    "mapper_name": "LLENN-",
+    "song_name": "SPiCa",
+    "no_video": false
+  },
+  {
+    "song_id": 967321,
+    "artist_name": "東京事変",
+    "mapper_name": "Uberzolik",
+    "song_name": "遭難",
+    "no_video": false
+  },
+  {
+    "song_id": 1737435,
+    "artist_name": "富田美憂",
+    "mapper_name": "lit120",
+    "song_name": "OveR (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1787103,
+    "artist_name": "隣の庭は青い (庭師 + Aoi)",
+    "mapper_name": "Gahyeonln",
+    "song_name": "躯樹の墓守",
+    "no_video": false
+  },
+  {
+    "song_id": 623515,
+    "artist_name": "戸山香澄(CV.愛美)",
+    "mapper_name": "Underdogs",
+    "song_name": "どきどきSING OUT!",
+    "no_video": false
+  },
+  {
+    "song_id": 111760,
+    "artist_name": "豊崎愛生",
+    "mapper_name": "Fycho",
+    "song_name": "ダイヤモンド",
+    "no_video": false
+  },
+  {
+    "song_id": 1869172,
+    "artist_name": "月乃",
+    "mapper_name": "tomatas95",
+    "song_name": "キラキラ☆ハート♥リンケージ！",
+    "no_video": false
+  },
+  {
+    "song_id": 1533832,
+    "artist_name": "ツミキ",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 1101509,
+    "artist_name": "常木耀（CV：佐倉綾音）",
+    "mapper_name": "Drum-Hitnormal",
+    "song_name": "瞬間Happening (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 113458,
+    "artist_name": "ttbt",
+    "mapper_name": "moonlightleaf",
+    "song_name": "真っ黒フランドール・S修正版",
+    "no_video": false
+  },
+  {
+    "song_id": 1217474,
+    "artist_name": "ツユ",
+    "mapper_name": "Seros",
+    "song_name": "やっぱり雨は降るんだね",
+    "no_video": false
+  },
+  {
+    "song_id": 1277224,
+    "artist_name": "上田麗奈",
+    "mapper_name": "Kibbleru",
+    "song_name": "リテラチュア",
+    "no_video": false
+  },
+  {
+    "song_id": 1737474,
+    "artist_name": "上田麗奈",
+    "mapper_name": "Zawajiro",
+    "song_name": "リテラチュア (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 409928,
+    "artist_name": "上原れな",
+    "mapper_name": "Shad0w1and",
+    "song_name": "After All ～綴る想い～",
+    "no_video": false
+  },
+  {
+    "song_id": 130370,
+    "artist_name": "上原れな",
+    "mapper_name": "Azer",
+    "song_name": "さよならのこと (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 691147,
+    "artist_name": "上原れな",
+    "mapper_name": "Namki",
+    "song_name": "届かない恋 '13 (TV EDIT)",
+    "no_video": false
+  },
+  {
+    "song_id": 1132232,
+    "artist_name": "上原れな",
+    "mapper_name": "[ TNTlealu ]",
+    "song_name": "届かない恋 '13 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1769121,
+    "artist_name": "有形ランペイジ",
+    "mapper_name": "Amamya",
+    "song_name": "レプリカ feat. mami",
+    "no_video": false
+  },
+  {
+    "song_id": 150914,
+    "artist_name": "梅里",
+    "mapper_name": "captin1",
+    "song_name": "paranoia",
+    "no_video": false
+  },
+  {
+    "song_id": 724881,
+    "artist_name": "梅里",
+    "mapper_name": "Sakurauchi Riko",
+    "song_name": "paranoia",
+    "no_video": false
+  },
+  {
+    "song_id": 1232084,
+    "artist_name": "UNDEAD CORPORATION",
+    "mapper_name": "Entry",
+    "song_name": "からくれなゐ",
+    "no_video": false
+  },
+  {
+    "song_id": 315435,
+    "artist_name": "UNDEAD CORPORATION",
+    "mapper_name": "TheZiemniax",
+    "song_name": "The Empress scream off ver",
+    "no_video": false
+  },
+  {
+    "song_id": 147962,
+    "artist_name": "UPLIFT SPICE",
+    "mapper_name": "Jemmmmy",
+    "song_name": "オメガリズム",
+    "no_video": false
+  },
+  {
+    "song_id": 915848,
+    "artist_name": "Uru",
+    "mapper_name": "Present",
+    "song_name": "フリージア (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1542046,
+    "artist_name": "潤羽るしあ",
+    "mapper_name": "Akito",
+    "song_name": "グッバイ宣言",
+    "no_video": false
+  },
+  {
+    "song_id": 1314759,
+    "artist_name": "USAO",
+    "mapper_name": "- AzRaeL -",
+    "song_name": "Cyaegha",
+    "no_video": false
+  },
+  {
+    "song_id": 1839317,
+    "artist_name": "U-ske feat. 棗いつき",
+    "mapper_name": "August",
+    "song_name": "いざ、参ります",
+    "no_video": false
+  },
+  {
+    "song_id": 634468,
+    "artist_name": "鬱P",
+    "mapper_name": "Antalf",
+    "song_name": "MiKUSABBATH feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 72474,
+    "artist_name": "Various Artist",
+    "mapper_name": "onlyforyou",
+    "song_name": "Long Stream Practice Maps",
+    "no_video": false
+  },
+  {
+    "song_id": 1228933,
+    "artist_name": "Various Artists",
+    "mapper_name": "Konpaku Sariel",
+    "song_name": "1/6 Practice Pack 1",
+    "no_video": false
+  },
+  {
+    "song_id": 1085851,
+    "artist_name": "Various Artists",
+    "mapper_name": "Imperial Wolf",
+    "song_name": "6K Endurance Patterns Practice Vol.1",
+    "no_video": false
+  },
+  {
+    "song_id": 1232389,
+    "artist_name": "Various Artists",
+    "mapper_name": "dressurf",
+    "song_name": "dressurf's 7k practice charts",
+    "no_video": false
+  },
+  {
+    "song_id": 988760,
+    "artist_name": "Various Artists",
+    "mapper_name": "WinterIsPretty",
+    "song_name": "Jacks Practice",
+    "no_video": false
+  },
+  {
+    "song_id": 1495669,
+    "artist_name": "Various Artists",
+    "mapper_name": "Kailler",
+    "song_name": "Jump & Stream Practice",
+    "no_video": false
+  },
+  {
+    "song_id": 1287168,
+    "artist_name": "Various Artists",
+    "mapper_name": "Kim_GodSSI",
+    "song_name": "Kim_GodSSI's LN Practice Pack 1",
+    "no_video": false
+  },
+  {
+    "song_id": 1701660,
+    "artist_name": "Various Artists",
+    "mapper_name": "Muses",
+    "song_name": "Malody 4K Regular Dan v3-Jack",
+    "no_video": false
+  },
+  {
+    "song_id": 1701667,
+    "artist_name": "Various Artists",
+    "mapper_name": "Muses",
+    "song_name": "Malody 4K Regular Dan v3-Stream",
+    "no_video": false
+  },
+  {
+    "song_id": 867398,
+    "artist_name": "Various Artists",
+    "mapper_name": "Stubbs",
+    "song_name": "random practice maps",
+    "no_video": false
+  },
+  {
+    "song_id": 112651,
+    "artist_name": "Various Artists",
+    "mapper_name": "Jemmmmy",
+    "song_name": "Square Jump Practice Maps",
+    "no_video": false
+  },
+  {
+    "song_id": 43701,
+    "artist_name": "",
+    "mapper_name": "NewRulerNA",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 48352,
+    "artist_name": "",
+    "mapper_name": "NewRulerNA",
+    "song_name": "",
+    "no_video": false
+  },
+  {
+    "song_id": 1151942,
+    "artist_name": "Various Artists",
+    "mapper_name": "bencyphyr",
+    "song_name": "Stream Practice Set",
+    "no_video": false
+  },
+  {
+    "song_id": 1672109,
+    "artist_name": "Various Artists",
+    "mapper_name": "Scarlet V",
+    "song_name": "Subarashiki Hibi Songs Compilation",
+    "no_video": false
+  },
+  {
+    "song_id": 1829285,
+    "artist_name": "vivid undress",
+    "mapper_name": "Nymphe",
+    "song_name": "はやるよろひや",
+    "no_video": false
+  },
+  {
+    "song_id": 1802292,
+    "artist_name": "void (Mournfinale) feat. 星熊南巫",
+    "mapper_name": "PORTTAYER",
+    "song_name": "Testify",
+    "no_video": false
+  },
+  {
+    "song_id": 1850507,
+    "artist_name": "Vzai ran shao",
+    "mapper_name": "s132",
+    "song_name": "I Got Smoke",
+    "no_video": false
+  },
+  {
+    "song_id": 186318,
+    "artist_name": "Warak",
+    "mapper_name": "iyasine",
+    "song_name": "暗夜苏醒",
+    "no_video": false
+  },
+  {
+    "song_id": 1727697,
+    "artist_name": "Will Stetson",
+    "mapper_name": "Astronic",
+    "song_name": "フォニイ",
+    "no_video": false
+  },
+  {
+    "song_id": 1979883,
+    "artist_name": "Will Stetson",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "強風オールバック",
+    "no_video": false
+  },
+  {
+    "song_id": 1032163,
+    "artist_name": "Wisp X",
+    "mapper_name": "Nao Tomori",
+    "song_name": "Crimson feat. 初音 ミク (Radio Edit)",
+    "no_video": false
+  },
+  {
+    "song_id": 935984,
+    "artist_name": "Wisp X",
+    "mapper_name": "DTM9 Nowa",
+    "song_name": "Forever",
+    "no_video": false
+  },
+  {
+    "song_id": 871914,
+    "artist_name": "Wisp X",
+    "mapper_name": "greenhue",
+    "song_name": "Frozen Leaves",
+    "no_video": false
+  },
+  {
+    "song_id": 1040161,
+    "artist_name": "Wisp X",
+    "mapper_name": "Aeril",
+    "song_name": "Hibiscus",
+    "no_video": false
+  },
+  {
+    "song_id": 1033247,
+    "artist_name": "Wisp X",
+    "mapper_name": "Free Hong Kong",
+    "song_name": "Melon Soda",
+    "no_video": false
+  },
+  {
+    "song_id": 755188,
+    "artist_name": "Wisp X",
+    "mapper_name": "Sinnoh",
+    "song_name": "Mint",
+    "no_video": false
+  },
+  {
+    "song_id": 883088,
+    "artist_name": "Wisp X",
+    "mapper_name": "Myxomatosis",
+    "song_name": "Somewhere I'd Rather Be",
+    "no_video": false
+  },
+  {
+    "song_id": 970646,
+    "artist_name": "Wisp X",
+    "mapper_name": "Uta",
+    "song_name": "Wander",
+    "no_video": false
+  },
+  {
+    "song_id": 532596,
+    "artist_name": "ウォルピスカーター",
+    "mapper_name": "Sonnyc",
+    "song_name": "空奏列車",
+    "no_video": false
+  },
+  {
+    "song_id": 1703671,
+    "artist_name": "ワンダーランズ×ショウタイム × 初音ミク",
+    "mapper_name": "deta5859",
+    "song_name": "にっこり^^調査隊のテーマ",
+    "no_video": false
+  },
+  {
+    "song_id": 925682,
+    "artist_name": "WORLD ORDER",
+    "mapper_name": "Monstrata",
+    "song_name": "Let's start WW3",
+    "no_video": false
+  },
+  {
+    "song_id": 317630,
+    "artist_name": "ヲタみん",
+    "mapper_name": "Karen",
+    "song_name": "letter song",
+    "no_video": false
+  },
+  {
+    "song_id": 1029750,
+    "artist_name": "ヲタみん",
+    "mapper_name": "Lafayla",
+    "song_name": "letter song",
+    "no_video": false
+  },
+  {
+    "song_id": 1872527,
+    "artist_name": "wowaka",
+    "mapper_name": "gazimal",
+    "song_name": "裏表ラバーズ feat. 初音ミク",
+    "no_video": false
+  },
+  {
+    "song_id": 171880,
+    "artist_name": "xi",
+    "mapper_name": "Blocko",
+    "song_name": "ハッピーエンドオブザワールド",
+    "no_video": false
+  },
+  {
+    "song_id": 309328,
+    "artist_name": "xi",
+    "mapper_name": "Ichigaki",
+    "song_name": "Hesperides",
+    "no_video": false
+  },
+  {
+    "song_id": 811119,
+    "artist_name": "XX:me",
+    "mapper_name": "jonathanlfj",
+    "song_name": "Escape",
+    "no_video": false
+  },
+  {
+    "song_id": 200945,
+    "artist_name": "yak_won",
+    "mapper_name": "Critical_Star",
+    "song_name": "Lucid",
+    "no_video": false
+  },
+  {
+    "song_id": 647804,
+    "artist_name": "山吹沙綾 (CAST: 大橋彩香)",
+    "mapper_name": "Hikan",
+    "song_name": "遠い音楽～ハートビート～",
+    "no_video": false
+  },
+  {
+    "song_id": 1856733,
+    "artist_name": "山崎エリイ",
+    "mapper_name": "pnky",
+    "song_name": "Last Promise",
+    "no_video": false
+  },
+  {
+    "song_id": 1130090,
+    "artist_name": "柳麻美",
+    "mapper_name": "Bellicose",
+    "song_name": "光放て！",
+    "no_video": false
+  },
+  {
+    "song_id": 1329947,
+    "artist_name": "柳麻美",
+    "mapper_name": "bongo",
+    "song_name": "光放て！",
+    "no_video": false
+  },
+  {
+    "song_id": 1692837,
+    "artist_name": "柳麻美",
+    "mapper_name": "Zekk",
+    "song_name": "光放て！",
+    "no_video": false
+  },
+  {
+    "song_id": 1146195,
+    "artist_name": "やなぎなぎ",
+    "mapper_name": "Kibbleru",
+    "song_name": "芽ぐみの雨 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1227003,
+    "artist_name": "YOASOBI",
+    "mapper_name": "deta5859",
+    "song_name": "あの夢をなぞって",
+    "no_video": false
+  },
+  {
+    "song_id": 1120850,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Flask",
+    "song_name": "あの夢をなぞって",
+    "no_video": false
+  },
+  {
+    "song_id": 1387192,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Crowley",
+    "song_name": "アンコール",
+    "no_video": false
+  },
+  {
+    "song_id": 1318120,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Battle",
+    "song_name": "群青",
+    "no_video": false
+  },
+  {
+    "song_id": 1492949,
+    "artist_name": "YOASOBI",
+    "mapper_name": "happychy123",
+    "song_name": "Gunjou",
+    "no_video": false
+  },
+  {
+    "song_id": 1380291,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Defy",
+    "song_name": "ハルジオン",
+    "no_video": false
+  },
+  {
+    "song_id": 1326928,
+    "artist_name": "YOASOBI",
+    "mapper_name": "deta5859",
+    "song_name": "ハルカ",
+    "no_video": false
+  },
+  {
+    "song_id": 1398827,
+    "artist_name": "YOASOBI",
+    "mapper_name": "LaoXiao-",
+    "song_name": "ハルカ",
+    "no_video": false
+  },
+  {
+    "song_id": 1982752,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Akasha-",
+    "song_name": "アイドル",
+    "no_video": false
+  },
+  {
+    "song_id": 1974878,
+    "artist_name": "YOASOBI",
+    "mapper_name": "iljaaz",
+    "song_name": "アイドル",
+    "no_video": false
+  },
+  {
+    "song_id": 1974238,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Kanui",
+    "song_name": "アイドル",
+    "no_video": false
+  },
+  {
+    "song_id": 1973430,
+    "artist_name": "YOASOBI",
+    "mapper_name": "- Nilou -",
+    "song_name": "アイドル (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1976837,
+    "artist_name": "YOASOBI",
+    "mapper_name": "BlackBN",
+    "song_name": "アイドル (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1974205,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Len",
+    "song_name": "アイドル (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1974438,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Mirsaaa",
+    "song_name": "アイドル (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1328989,
+    "artist_name": "YOASOBI",
+    "mapper_name": "[-Evil-]",
+    "song_name": "怪物 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1545135,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Airiesu",
+    "song_name": "ラブレター",
+    "no_video": false
+  },
+  {
+    "song_id": 1585863,
+    "artist_name": "YOASOBI",
+    "mapper_name": "ohm002",
+    "song_name": "ラブレター",
+    "no_video": true
+  },
+  {
+    "song_id": 1577144,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Kuo Kyoka",
+    "song_name": "大正浪漫",
+    "no_video": false
+  },
+  {
+    "song_id": 1519502,
+    "artist_name": "YOASOBI",
+    "mapper_name": "BaAR_Vendel",
+    "song_name": "三原色",
+    "no_video": false
+  },
+  {
+    "song_id": 1893984,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Kibitz",
+    "song_name": "祝福",
+    "no_video": false
+  },
+  {
+    "song_id": 1864974,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Anxient",
+    "song_name": "祝福 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1860627,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Doormat",
+    "song_name": "祝福 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 1757314,
+    "artist_name": "YOASOBI",
+    "mapper_name": "alevi",
+    "song_name": "たぶん",
+    "no_video": false
+  },
+  {
+    "song_id": 1497007,
+    "artist_name": "YOASOBI",
+    "mapper_name": "Gouhin",
+    "song_name": "優しい彗星",
+    "no_video": false
+  },
+  {
+    "song_id": 1218852,
+    "artist_name": "YOASOBI",
+    "mapper_name": "CoLouRed GlaZeE",
+    "song_name": "夜に駆ける",
+    "no_video": false
+  },
+  {
+    "song_id": 1789145,
+    "artist_name": "宵崎奏 (CV: 楠木ともり)",
+    "mapper_name": "Kudou Chitose",
+    "song_name": "命に嫌われている。",
+    "no_video": false
+  },
+  {
+    "song_id": 1357866,
+    "artist_name": "宵崎奏 (CV: 楠木ともり)",
+    "mapper_name": "fanhoho",
+    "song_name": "悔やむと書いてミライ",
+    "no_video": false
+  },
+  {
+    "song_id": 861466,
+    "artist_name": "米津玄師",
+    "mapper_name": "Loneight",
+    "song_name": "Lemon",
+    "no_video": false
+  },
+  {
+    "song_id": 852544,
+    "artist_name": "米津玄師",
+    "mapper_name": "Skystar",
+    "song_name": "LOSER",
+    "no_video": false
+  },
+  {
+    "song_id": 691021,
+    "artist_name": "ヨルシカ",
+    "mapper_name": "ProEzreal",
+    "song_name": "靴の花火",
+    "no_video": false
+  },
+  {
+    "song_id": 963814,
+    "artist_name": "ヨルシカ",
+    "mapper_name": "Delis",
+    "song_name": "八月、某、月明かり",
+    "no_video": false
+  },
+  {
+    "song_id": 1168294,
+    "artist_name": "ヨルシカ",
+    "mapper_name": "hypercyte",
+    "song_name": "花に亡霊",
+    "no_video": false
+  },
+  {
+    "song_id": 985066,
+    "artist_name": "ヨルシカ",
+    "mapper_name": "deetz",
+    "song_name": "言って。",
+    "no_video": false
+  },
+  {
+    "song_id": 1119169,
+    "artist_name": "ヨルシカ",
+    "mapper_name": "Xen",
+    "song_name": "言って。",
+    "no_video": false
+  },
+  {
+    "song_id": 847238,
+    "artist_name": "ヨルシカ",
+    "mapper_name": "GreenHue",
+    "song_name": "ただ君に晴れ",
+    "no_video": false
+  },
+  {
+    "song_id": 1525481,
+    "artist_name": "妖精帝國",
+    "mapper_name": "Kuki1537",
+    "song_name": "Mischievous of Alice",
+    "no_video": false
+  },
+  {
+    "song_id": 561693,
+    "artist_name": "ゆーしえ",
+    "mapper_name": "Kibbleru",
+    "song_name": "Cinderella Syndrome",
+    "no_video": false
+  },
+  {
+    "song_id": 440650,
+    "artist_name": "ゆいこんぬ",
+    "mapper_name": "Len",
+    "song_name": "ゴーストルール",
+    "no_video": false
+  },
+  {
+    "song_id": 165752,
+    "artist_name": "ゆいこんぬ",
+    "mapper_name": "Kibbleru",
+    "song_name": "深海少女",
+    "no_video": false
+  },
+  {
+    "song_id": 1271261,
+    "artist_name": "Yunomi",
+    "mapper_name": "hypercyte",
+    "song_name": "恋のうた (feat. 由崎司 (CV: 鬼頭明里)) (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 504171,
+    "artist_name": "Yunomi",
+    "mapper_name": "Nathan",
+    "song_name": "惑星ラビット (feat. TORIENA)",
+    "no_video": false
+  },
+  {
+    "song_id": 926885,
+    "artist_name": "ゆのみ & にかもきゅ",
+    "mapper_name": "toybot",
+    "song_name": "インドア系ならトラックメイカー (curryrice Remix)",
+    "no_video": false
+  },
+  {
+    "song_id": 1753970,
+    "artist_name": "雄之助",
+    "mapper_name": "Kotoha",
+    "song_name": "Loop (feat. WaMi)",
+    "no_video": false
+  },
+  {
+    "song_id": 1287115,
+    "artist_name": "雄之助",
+    "mapper_name": "Axaptice",
+    "song_name": "Spiral",
+    "no_video": false
+  },
+  {
+    "song_id": 172055,
+    "artist_name": "悠木碧",
+    "mapper_name": "Kibbleru",
+    "song_name": "また あした",
+    "no_video": false
+  },
+  {
+    "song_id": 1764157,
+    "artist_name": "ゆよゆっぺ",
+    "mapper_name": "Drum-Hitnormal",
+    "song_name": "Leia",
+    "no_video": false
+  },
+  {
+    "song_id": 1110400,
+    "artist_name": "ゆよゆっぺ",
+    "mapper_name": "Seto Kousuke",
+    "song_name": "Palette",
+    "no_video": false
+  },
+  {
+    "song_id": 693727,
+    "artist_name": "柘榴",
+    "mapper_name": "Mirash",
+    "song_name": "命に嫌われている。",
+    "no_video": false
+  },
+  {
+    "song_id": 1817884,
+    "artist_name": "ZAQ",
+    "mapper_name": "Airiesu",
+    "song_name": "Dance In The Game",
+    "no_video": false
+  },
+  {
+    "song_id": 999586,
+    "artist_name": "ZUN",
+    "mapper_name": "Net0",
+    "song_name": "緑眼のジェラシー",
+    "no_video": false
+  },
+  {
+    "song_id": 1974001,
+    "artist_name": "ZUN",
+    "mapper_name": "Robinia",
+    "song_name": "セラフィックチキン",
+    "no_video": false
+  },
+  {
+    "song_id": 1347758,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Seros",
+    "song_name": "暗く黒く",
+    "no_video": false
+  },
+  {
+    "song_id": 1425901,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Petal",
+    "song_name": "ハゼ馳せる果てるまで",
+    "no_video": false
+  },
+  {
+    "song_id": 1291269,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "pkk",
+    "song_name": "ハゼ馳せる果てるまで",
+    "no_video": false
+  },
+  {
+    "song_id": 972298,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Meg",
+    "song_name": "ヒューマノイド",
+    "no_video": false
+  },
+  {
+    "song_id": 1001507,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Nathan",
+    "song_name": "勘冴えて悔しいわ",
+    "no_video": false
+  },
+  {
+    "song_id": 1100001,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "0ugi",
+    "song_name": "マイノリティ脈絡",
+    "no_video": false
+  },
+  {
+    "song_id": 1432232,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Woood13",
+    "song_name": "脳裏上のクラッカー",
+    "no_video": false
+  },
+  {
+    "song_id": 1403009,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Ilay",
+    "song_name": "正義",
+    "no_video": false
+  },
+  {
+    "song_id": 1353446,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "GIDZ",
+    "song_name": "お勉強しといてよ",
+    "no_video": false
+  },
+  {
+    "song_id": 1316604,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Ryuusei Aika",
+    "song_name": "正しくなれない",
+    "no_video": false
+  },
+  {
+    "song_id": 1871865,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Bazz B",
+    "song_name": "残機 (TV Size)",
+    "no_video": false
+  },
+  {
+    "song_id": 833772,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Irohas",
+    "song_name": "秒針を噛む",
+    "no_video": false
+  },
+  {
+    "song_id": 921763,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Akito",
+    "song_name": "眩しいDNAだけ",
+    "no_video": false
+  },
+  {
+    "song_id": 1220456,
+    "artist_name": "ずっと真夜中でいいのに。",
+    "mapper_name": "Akito",
+    "song_name": "低血ボルト",
+    "no_video": false
+  }
+]
