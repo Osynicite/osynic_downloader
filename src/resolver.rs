@@ -6,7 +6,6 @@ use async_trait::async_trait;
 use crate::sources::{DownloadSource, DownloadSourceType};
 use crate::url::form_url;
 
-
 #[derive(Debug,Clone)]
 pub struct OsuBeatmapsetResolver {}
 
@@ -47,7 +46,6 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 })
             }
             DownloadResource::Params(params) => {
-                // 按顺序从Vec中拿到beatmapset_id、source、username、password
                 let beatmapset_id: u32;
                 let source: String;
 
@@ -77,7 +75,6 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let download_source = DownloadSource::from(DownloadSourceType::from(source));
                 let base_url = download_source.base_url.clone();
 
-                // 判断是否需要osu_login
                 let username: String;
                 let password: String;
 
@@ -148,7 +145,6 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let download_source = DownloadSource::from(DownloadSourceType::from(source));
                 let base_url = download_source.base_url.clone();
 
-                // 判断是否需要osu_login
                 let username: String;
                 let password: String;
 
