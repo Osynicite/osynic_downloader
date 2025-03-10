@@ -61,7 +61,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let download_source = DownloadSource::from(DownloadSourceType::from(source.as_str()));
 
-    if download_source.requires_osu_login {
+    if download_source.requires_osu_credentials {
         if args.username.is_none() || args.password.is_none() {
             return Err("Username and password are required for this source".into());
         }

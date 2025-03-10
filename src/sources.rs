@@ -43,7 +43,8 @@ pub struct DownloadSource {
     pub limit_threads: u32,
     pub timeout: u32,
     pub support_range: bool,
-    pub requires_osu_login: bool,
+    pub requires_osu_credentials: bool,
+    pub requires_basic_auth: bool,
     pub requires_oauth_token: bool
 }
 
@@ -74,7 +75,8 @@ impl Default for DownloadSource {
                 limit_threads: 3,
                 timeout: 5000,
                 support_range: false,
-                requires_osu_login: false,
+                requires_osu_credentials: false,
+                requires_basic_auth: false,
                 requires_oauth_token: false
         }
     }
@@ -94,7 +96,8 @@ impl DownloadSource {
             limit_threads: 1,
             timeout: 5000,
             support_range: true,
-            requires_osu_login: true,
+            requires_osu_credentials: true,
+            requires_basic_auth: false,
             requires_oauth_token: false,
         }
     }
@@ -112,8 +115,9 @@ impl DownloadSource {
             limit_threads: 1,
             timeout: 5000,
             support_range: true,
-            requires_osu_login: false,
-            requires_oauth_token: true,
+            requires_osu_credentials: true,
+            requires_basic_auth: true,
+            requires_oauth_token: false,
         }
     }
 
@@ -130,7 +134,8 @@ impl DownloadSource {
                 limit_threads: 3,
                 timeout: 5000,
                 support_range: true,
-                requires_osu_login: false,
+                requires_osu_credentials: false,
+                requires_basic_auth: false,
                 requires_oauth_token: false
         }
     }
@@ -148,7 +153,8 @@ impl DownloadSource {
             limit_threads: 3,
             timeout: 5000,
             support_range: true,
-            requires_osu_login: false,
+            requires_osu_credentials: false,
+            requires_basic_auth: false,
             requires_oauth_token: false,
         }
     }

@@ -79,7 +79,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let password: String;
 
                 let url: String;
-                if download_source.requires_osu_login {
+                if download_source.requires_osu_credentials {
                     match params.get(2) {
                         Some(name) => {
                             username = name.clone();
@@ -101,7 +101,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                         ResolvedResource{
                             url: url.clone(),
                             headers: vec![],
-                            auth: Some(AuthMethod::BasicAuth { username, password }),
+                            auth: Some(AuthMethod::Basic { username, password }),
                         }
                     )
                 } else {
@@ -149,7 +149,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let password: String;
 
                 let url: String;
-                if download_source.requires_osu_login {
+                if download_source.requires_osu_credentials {
                     match hashmap.get("username") {
                         Some(name) => {
                             username = name.clone();
@@ -166,14 +166,25 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                             return Err("Missing password".into());
                         }
                     }
-                    url = form_url(&base_url, &beatmapset_id, &username, &password).map_err(|e| e.to_string())?;
-                    Ok(
-                        ResolvedResource{
-                            url: url.clone(),
-                            headers: vec![],
-                            auth: Some(AuthMethod::BasicAuth { username, password }),
-                        }
-                    )
+                    if download_source.requires_basic_auth{
+                        url = form_url(&base_url, &beatmapset_id, "","").map_err(|e| e.to_string())?;
+                        Ok(
+                            ResolvedResource{
+                                url: url.clone(),
+                                headers: vec![],
+                                auth: Some(AuthMethod::Basic { username, password }),
+                            }
+                        )
+                    } else {
+                        url = form_url(&base_url, &beatmapset_id, &username, &password).map_err(|e| e.to_string())?;
+                        Ok(
+                            ResolvedResource{
+                                url: url.clone(),
+                                headers: vec![],
+                                auth: None,
+                            }
+                        )
+                    }
                 } else {
                     url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
                     Ok(
