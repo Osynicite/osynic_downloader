@@ -1,6 +1,27 @@
-# Usage Example: OsynicDownloader
+<p align="center" dir="auto">
+    <img style="height:240px;width:240px" src="https://s2.loli.net/2025/03/10/GSsjOcHqdtBkyu9.png" alt="Logo逃走啦~"/>
+</p>
+
+<p align="center">
+  <h1 align="center">OsynicDownloader 🎵</h1>
+  <p align="center">Osu! beatmap downloader library written in Rust with multi-threading support, download queue based on vielpork.</p>
+</p>
+
+<p align="center">
+  <a href="https://crates.io/crates/osynic_downloader" target="_blank"><img src="https://img.shields.io/crates/v/osynic_downloader"/></a>
+  <a href="https://docs.rs/osynic_downloader" target="_blank"><img src="https://img.shields.io/docsrs/osynic_downloader/0.1.0"/></a>
+  <a href="https://github.com/osynicite/osynic_downloader" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"/></a>
+
+</p>
+
+<p align="center">
+  <hr />
 
 [osynic_downloader](https://crates.io/crates/osynic_downloader) is an efficient osu! beatmap downloader tool based on [vielpork](https://crates.io/crates/vielpork), supporting two input formats and parallel downloading, designed for rhythm game players and beatmap managers.
+
+Recommended to use with [osynic_serializer](https://crates.io/crates/osynic_serializer) to achieve fast serialization of osu! beatmaps.
+
+![osynic_downloader.gif](https://s2.loli.net/2025/03/10/hasqOmgctyG4TWd.gif)
 
 ## ✨ Features
 
@@ -84,8 +105,8 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 
 ## Supported osu! Download Sources
 
-1. **OsuDirect**: Official osu! beatmap download source (osu username and password required)
-2. **OsuApiV2**: osu!lazer beatmap download source (osu username and password required, Basic authentication)
+1. **OsuDirect**: Official osu! beatmap download source (osu username and password required, URL parameters)
+2. **OsuApiV2**(Not available yet): osu!lazer beatmap download source (osu username and password required, Basic authentication)
 3. **SayoApi** (default): Sayobot beatmap download source (no login required)
 4. **ChimuApi**: Chimu.moe beatmap download source (no login required)
 

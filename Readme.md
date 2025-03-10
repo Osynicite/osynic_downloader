@@ -1,4 +1,22 @@
-# OsynicDownloader 🎵
+<p align="center" dir="auto">
+    <img style="height:240px;width:240px" src="https://s2.loli.net/2025/03/10/GSsjOcHqdtBkyu9.png" alt="Logo逃走啦~"/>
+</p>
+
+<p align="center">
+  <h1 align="center">OsynicDownloader 🎵</h1>
+  <p align="center">Rust编写的多线程osu!谱面下载器库，下载队列基于vielpork。</p>
+</p>
+
+<p align="center">
+  <a href="https://crates.io/crates/osynic_downloader" target="_blank"><img src="https://img.shields.io/crates/v/osynic_downloader"/></a>
+  <a href="https://docs.rs/osynic_downloader" target="_blank"><img src="https://img.shields.io/docsrs/osynic_downloader/0.1.0"/></a>
+  <a href="https://github.com/osynicite/osynic_downloader" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"/></a>
+
+</p>
+
+<p align="center">
+  <hr />
+
 
 [![Rust](https://img.shields.io/badge/Rust-1.85%2B-blue)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -93,7 +111,7 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 ## 支持的osu!下载源
 
 1. **OsuDirect**：osu!官方谱面下载源（需osu账号密码，做URL传参）
-2. **OsuApiV2**: osu!lazer的谱面下载源（需osu账号密码，做Basic认证）
+2. **OsuApiV2**（暂未支持）: osu!lazer的谱面下载源（需osu账号密码，做Basic认证）
 3. **SayoApi**（默认）：Sayobot谱面下载源（无需登录）
 4. **ChimuApi**：Chimu.moe谱面下载源（无需登录）
 
