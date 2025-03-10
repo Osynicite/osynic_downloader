@@ -22,7 +22,7 @@ struct CliArgs {
     #[arg(short = 'n', long, conflicts_with = "beatmapsets")]
     osynic_songs: Option<PathBuf>,
 
-    /// Source to use for downloading
+    /// Source to use for downloading. Available sources:  OsuDirect | OsuApiV2 | SayoApi | ChimuApi
     #[arg(short,long, default_value = "SayoApi")]
     source: String,
 
@@ -58,6 +58,16 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let args = CliArgs::parse();
 
     let source = args.source;
+
+    
+    if source != "OsuDirect" && source != "OsuApiV2" && source != "SayoApi" && source != "ChimuApi" {
+        return Err("Invalid source".into());
+    }
+    
+    if  source == "OsuApiV2" {
+        return Err("OsuApiV2 is not supported now.".into());
+    }
+
 
     let download_source = DownloadSource::from(DownloadSourceType::from(source.as_str()));
 

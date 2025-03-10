@@ -99,15 +99,28 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                             return Err("Missing password".into());
                         }
                     }
-                    url = form_url(&base_url, &beatmapset_id, &username, &password).map_err(|e| e.to_string())?;
-                    Ok(
-                        ResolvedResource{
-                            id:beatmapset_id,
-                            url: url.clone(),
-                            headers: vec![],
-                            auth: Some(AuthMethod::Basic { username, password }),
-                        }
-                    )
+                    if download_source.requires_basic_auth{
+                        url = form_url(&base_url, &beatmapset_id, "","").map_err(|e| e.to_string())?;
+                        Ok(
+                            ResolvedResource{
+                                id:beatmapset_id,
+                                url: url.clone(),
+                                headers: vec![],
+                                auth: Some(AuthMethod::Basic { username, password }),
+                            }
+                        )
+                    } else {
+                        let hashed_password = format!("{:x}", md5::compute(password));
+                        url = form_url(&base_url, &beatmapset_id, &username, &hashed_password).map_err(|e| e.to_string())?;
+                        Ok(
+                            ResolvedResource{
+                                id:beatmapset_id,
+                                url: url.clone(),
+                                headers: vec![],
+                                auth: None,
+                            }
+                        )
+                    }
                 } else {
                     url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
                     Ok(
@@ -182,7 +195,8 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                             }
                         )
                     } else {
-                        url = form_url(&base_url, &beatmapset_id, &username, &password).map_err(|e| e.to_string())?;
+                        let hashed_password = format!("{:x}", md5::compute(password));
+                        url = form_url(&base_url, &beatmapset_id, &username, &hashed_password).map_err(|e| e.to_string())?;
                         Ok(
                             ResolvedResource{
                                 id:beatmapset_id,
