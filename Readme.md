@@ -7,14 +7,16 @@
 
 推荐搭配[osynic_serializer](https://crates.io/crates/osynic_serializer)使用，实现osu!谱面的快速序列化。
 
+![osynic_downloader.gif](https://s2.loli.net/2025/03/10/hasqOmgctyG4TWd.gif)
+
 ## ✨ 特性
 
-- **双模式输入**：支持原生osu!谱面集ID列表和Osynic序列化生成的定制格式
-- **多下载源**：目前支持OsuDirect、OsuApiV2、SayoApi和ChimuApi共四种种下载源
+- **双模式输入**：支持osu!谱面集ID列表和Osynic序列化生成的JSON格式
+- **多下载源**：目前支持OsuDirect、OsuApiV2、SayoApi和ChimuApi共四种下载源
 - **并发支持**：多线程并发下载加速（默认4线程）（请注意各osu!镜像站API的并发限制！文明使用！）
 - **智能管理**：自动创建目录结构，自定义保存路径
 - **可视化进度**：实时TUI进度显示（支持终端256色）
-- **错误恢复**：状态恢复机制保障下载完整性
+- **错误恢复**：无畏中断，自动断点续传
 
 ## 📦 安装
 
@@ -90,7 +92,7 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 
 ## 支持的osu!下载源
 
-1. **OsuDirect**：osu!官方谱面下载源（需osu账号密码）
+1. **OsuDirect**：osu!官方谱面下载源（需osu账号密码，做URL传参）
 2. **OsuApiV2**: osu!lazer的谱面下载源（需osu账号密码，做Basic认证）
 3. **SayoApi**（默认）：Sayobot谱面下载源（无需登录）
 4. **ChimuApi**：Chimu.moe谱面下载源（无需登录）

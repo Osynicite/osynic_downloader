@@ -1,6 +1,7 @@
 use vielpork::base::traits::ResourceResolver;
 use vielpork::base::structs::ResolvedResource;
 use vielpork::base::enums::{DownloadResource,AuthMethod};
+use vielpork::base::algorithms::generate_task_id;
 use async_trait::async_trait;
 
 use crate::sources::{DownloadSource, DownloadSourceType};
@@ -21,6 +22,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
         match resource {
             DownloadResource::Url(url) => {
                 Ok(ResolvedResource{
+                    id: generate_task_id(url),
                     url: url.clone(),
                     headers: vec![],
                     auth: None,
@@ -40,6 +42,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let base_url = download_source.base_url.clone();
                 let url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
                 Ok(ResolvedResource{
+                    id: beatmapset_id,
                     url: url.clone(),
                     headers: vec![],
                     auth: None,
@@ -99,6 +102,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                     url = form_url(&base_url, &beatmapset_id, &username, &password).map_err(|e| e.to_string())?;
                     Ok(
                         ResolvedResource{
+                            id:beatmapset_id,
                             url: url.clone(),
                             headers: vec![],
                             auth: Some(AuthMethod::Basic { username, password }),
@@ -108,6 +112,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                     url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
                     Ok(
                         ResolvedResource{
+                            id:beatmapset_id,
                             url: url.clone(),
                             headers: vec![],
                             auth: None,
@@ -170,6 +175,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                         url = form_url(&base_url, &beatmapset_id, "","").map_err(|e| e.to_string())?;
                         Ok(
                             ResolvedResource{
+                                id:beatmapset_id,
                                 url: url.clone(),
                                 headers: vec![],
                                 auth: Some(AuthMethod::Basic { username, password }),
@@ -179,6 +185,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                         url = form_url(&base_url, &beatmapset_id, &username, &password).map_err(|e| e.to_string())?;
                         Ok(
                             ResolvedResource{
+                                id:beatmapset_id,
                                 url: url.clone(),
                                 headers: vec![],
                                 auth: None,
@@ -189,6 +196,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                     url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
                     Ok(
                         ResolvedResource{
+                            id:beatmapset_id,
                             url: url.clone(),
                             headers: vec![],
                             auth: None,
