@@ -29,9 +29,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install musl-tools (Linux)
-        if: matrix.os == 'ubuntu-latest'
-        run: sudo apt-get update && sudo apt-get install -y musl-tools
+      - name: Install Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: nightly
+          profile: minimal
+          target: ${{ matrix.target }}
+          override: true
+
+      - name: Get crate info
+        id: crate_info
+        run: echo "CRATE_NAME=$(cargo metadata --no-deps --format-version=1 | jq -r '.packages[0].name')" >> $GITHUB_OUTPUT
+        shell: bash
 
       - name: Build release binary
         run: cargo build --release --target ${{ matrix.target }}
