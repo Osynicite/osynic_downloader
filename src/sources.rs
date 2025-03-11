@@ -11,6 +11,32 @@ pub enum DownloadSourceType {
     Custom(DownloadSource),
 }
 
+impl DownloadSourceType{
+    pub fn to_string(&self) -> String {
+        match self {
+            DownloadSourceType::OsuDirect => "OsuDirect".to_string(),
+            DownloadSourceType::OsuApiV2 => "OsuApiV2".to_string(),
+            DownloadSourceType::SayoApi => "SayoApi".to_string(),
+            DownloadSourceType::ChimuApi => "ChimuApi".to_string(),
+            DownloadSourceType::Custom(_) => "Custom".to_string(),
+            _ => "Default".to_string(),
+        }
+    }
+        
+}
+
+impl From<i32> for DownloadSourceType {
+    fn from(i: i32) -> Self {
+        match i {
+            0 => DownloadSourceType::OsuDirect,
+            1 => DownloadSourceType::OsuApiV2,
+            2 => DownloadSourceType::SayoApi,
+            3 => DownloadSourceType::ChimuApi,
+            _ => DownloadSourceType::Default,
+        }
+    }
+}
+
 impl From<&str> for DownloadSourceType {
     fn from(s: &str) -> Self {
         match s {

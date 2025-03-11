@@ -21,11 +21,11 @@
 
 [中文版本](README.md) | [English Version](README_EN.md)
 
-[osynic_downloader](https://crates.io/crates/osynic_downloader) is an efficient osu! beatmap downloader tool based on [vielpork](https://crates.io/crates/vielpork), supporting two input formats and parallel downloading, designed for rhythm game players and beatmap managers.
+[osynic_downloader](https://github.com/osynicite/osynic_downloader) is an efficient osu! beatmap downloader tool based on [vielpork](https://github.com/islatri/vielpork), supporting two input formats and parallel downloading, designed for rhythm game players and beatmap managers.
 
 ![osynic_downloader.gif](https://s2.loli.net/2025/03/10/hasqOmgctyG4TWd.gif)
 
-Recommended to use with [osynic_serializer](https://crates.io/crates/osynic_serializer) to achieve fast serialization of osu! beatmaps.
+Recommended to use with [osynic_serializer](https://github.com/osynicite/osynic_serializer) to achieve fast serialization of osu! beatmaps.
 
 ![osynic_serializer.gif](https://s2.loli.net/2025/03/10/cwsgFnTEa76xiWQ.gif)
 
@@ -109,7 +109,7 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 | --concurrency  | -c    | 4           | Download concurrency (1-16)    |
 | --help         | -h    | -           | Display help information        |
 
-## Supported osu! Download Sources
+## 📥 Supported osu! Download Sources
 
 1. **OsuDirect**: Official osu! beatmap download source (osu username and password required, URL parameters)
 2. **OsuApiV2**(Not available yet): osu!lazer beatmap download source (osu username and password required, Basic authentication)

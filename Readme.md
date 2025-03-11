@@ -20,11 +20,11 @@
 
 [中文版本](README.md) | [English Version](README_EN.md)
 
-[osynic_downloader](https://crates.io/crates/osynic_downloader) 是一款高效的osu!谱面下载工具，基于[vielpork](https://crates.io/crates/vielpork)开发，支持两种输入格式和并行下载，专为音游玩家和多设备谱面同步打造。
+[osynic_downloader](https://github.com/osynicite/osynic_downloader) 是一款高效的osu!谱面下载工具，基于[vielpork](https://github.com/islatri/vielpork)开发，支持两种输入格式和并行下载，专为音游玩家和多设备谱面同步打造。
 
 ![osynic_downloader.gif](https://s2.loli.net/2025/03/10/hasqOmgctyG4TWd.gif)
 
-推荐搭配[osynic_serializer](https://crates.io/crates/osynic_serializer)使用，实现osu!谱面的快速序列化。
+推荐搭配[osynic_serializer](https://github.com/osynicite/osynic_serializer)使用，实现osu!谱面的快速序列化。
 
 ![osynic_serializer.gif](https://s2.loli.net/2025/03/10/cwsgFnTEa76xiWQ.gif)
 
@@ -109,7 +109,7 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 | --concurrency  | -c   | 4           | 下载并发数（1-16）                   |
 | --help         | -h   | -           | 显示帮助信息                         |
 
-## 支持的osu!下载源
+## 📥 支持的osu!下载源
 
 1. **OsuDirect**：osu!官方谱面下载源（需osu账号密码，做URL传参）
 2. **OsuApiV2**（暂未支持）: osu!lazer的谱面下载源（需osu账号密码，做Basic认证）
