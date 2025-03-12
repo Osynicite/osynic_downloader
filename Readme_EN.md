@@ -123,6 +123,36 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 3. Interrupting the download process with `Ctrl+C` and then rerunning will resume the download
 4. It is recommended to use a stable network connection for the best experience
 
+## 🆗 Use as a lib
+
+The most useful part of it should be `osynic_downloader::resolver::OsuBeatmapsetResolver` and `osynic_downloader::sources::DownloadSourceType`, the former provides a resolver for osu! beatmap sets (see [https://hakochest.github.io/vielpork-cn/custom-resolver/osu-beatmap-resolver.html](https://hakochest.github.io/vielpork-cn/custom-resolver/osu-beatmap-resolver.html) for documentation), and the latter provides an enumeration of four download sources.
+
+First, add dependencies to your `Cargo.toml`. In most cases, it is recommended to use it with [vielpork](https://github.com/islatri/vielpork).
+
+```toml
+[dependencies]
+osynic_downloader = {version="0.1.0",default-features = false, features = ["cli"]}
+vielpork ={version="0.1.0"}
+```
+
+Then you can add an osu! beatmap resolver to your vielpork downloader!
+
+```rust
+use vielpork::downloader::Downloader;
+use vielpork::base::structs::DownloadOptions；
+use vielpork::reporters::cli_boardcast_mpsc::CliReporterBoardcastMpsc;
+
+use osynic_downloader::resolver::OsuBeatmapsetResolver;
+
+
+// In your business logic
+let options = DownloadOptions::default();
+let reporter = CliReporterBoardcastMpsc::new(128);
+let resolver = OsuBeatmapsetResolver::new();
+let downloader = Downloader::new(options, Box::new(resolver), Box::new(reporter.clone()));
+        
+```
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these guidelines:

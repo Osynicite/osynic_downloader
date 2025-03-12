@@ -123,6 +123,36 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 3. 使用`Ctrl+C`中断下载进程后，可重新运行恢复下载
 4. 建议使用稳定的网络连接以获得最佳体验
 
+## 🆗 作为库来使用
+
+其实其中最有用的应该就`osynic_downloader::resolver::OsuBeatmapsetResolver`和`osynic_downloader::sources::DownloadSourceType`了，前者提供了osu!谱面集的解析器（文档参见[https://hakochest.github.io/vielpork-cn/custom-resolver/osu-beatmap-resolver.html](https://hakochest.github.io/vielpork-cn/custom-resolver/osu-beatmap-resolver.html)），后者提供了4个下载源的枚举。
+
+首先在你的`Cargo.toml`中添加依赖，通常情况下，还是推荐和[vielpork](https://github.com/islatri/vielpork)一起使用。
+
+```toml
+[dependencies]
+osynic_downloader = {version="0.1.0",default-features = false, features = ["cli"]}
+vielpork ={version="0.1.0"}
+```
+
+然后就可以为你的vielpork下载器添加osu!谱面的解析器了！
+
+```rust
+use vielpork::downloader::Downloader;
+use vielpork::base::structs::DownloadOptions；
+use vielpork::reporters::cli_boardcast_mpsc::CliReporterBoardcastMpsc;
+
+use osynic_downloader::resolver::OsuBeatmapsetResolver;
+
+
+// 在具体业务中
+let options = DownloadOptions::default();
+let reporter = CliReporterBoardcastMpsc::new(128);
+let resolver = OsuBeatmapsetResolver::new();
+let downloader = Downloader::new(options, Box::new(resolver), Box::new(reporter.clone()));
+        
+```
+
 ## 🤝 贡献指南
 
 欢迎通过Issue提交建议或Pull Request参与开发！请确保：

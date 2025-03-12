@@ -28,7 +28,7 @@ serde_json = "1.0.140"
 md5 = "0.7.0"
 vielpork = {path = "../vielpork"}
 async-trait = "0.1.87"
-clap = {version="4.5.31", features = ["derive"],optional = true}
+clap = {version="4.5.32", features = ["derive"],optional = true}
 
 [dev-dependencies]
 dotenvy = "0.15.7"
