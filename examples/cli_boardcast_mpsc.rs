@@ -43,8 +43,8 @@ use tokio::sync::Mutex;
                         println!("Finished downloading beatmapset {}", task_id);
                         println!("Finish type: {:?}",finish);
                     }
-                    ProgressEvent::OperationResult { operation, code, message } => {
-                        println!("Operation result: {:?} - {} - {}", operation, code, message);
+                    ProgressEvent::OperationResult { operation,task_id, code, message } => {
+                        println!("Operation result: {:?} - {}- {} - {}", operation,task_id, code, message);
                     }
                 }
             }

@@ -1,3 +1,5 @@
+#![cfg(feature = "tui")]
+
 use vielpork::downloader::Downloader;
 use vielpork::reporters::tui::TuiReporter;
 use osynic_downloader::resolver::OsuBeatmapsetResolver;

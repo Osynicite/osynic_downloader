@@ -125,7 +125,7 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 
 ## 🆗 Use as a lib
 
-The most useful part of it should be `osynic_downloader::resolver::OsuBeatmapsetResolver` and `osynic_downloader::sources::DownloadSourceType`, the former provides a resolver for osu! beatmap sets (see [https://hakochest.github.io/vielpork-cn/custom-resolver/osu-beatmap-resolver.html](https://hakochest.github.io/vielpork-cn/custom-resolver/osu-beatmap-resolver.html) for documentation), and the latter provides an enumeration of four download sources.
+The most useful part of it should be `osynic_downloader::resolver::OsuBeatmapsetResolver` and `osynic_downloader::sources::DownloadSourceType`, the former provides a resolver for osu! beatmap sets (see [https://hakochest.github.io/vielpork-en/custom-resolver/osu-beatmap-resolver.html](https://hakochest.github.io/vielpork-en/custom-resolver/osu-beatmap-resolver.html) for documentation), and the latter provides an enumeration of four download sources.
 
 First, add dependencies to your `Cargo.toml`. In most cases, it is recommended to use it with [vielpork](https://github.com/islatri/vielpork).
 
