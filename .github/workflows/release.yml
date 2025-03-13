@@ -61,36 +61,12 @@ jobs:
       - name: Package release for Windows
         if: matrix.os == 'windows-latest'
         run: |
-          BIN_NAME=osynic-dl${{ matrix.ext }}
-          RELEASE_DIR=release-${{ matrix.target }}
-          mkdir $RELEASE_DIR
-          cp target/${{ matrix.target }}/release/$BIN_NAME $RELEASE_DIR/
-          7z a $RELEASE_DIR.zip $RELEASE_DIR/*
+          $env:BIN_NAME = "osynic-dl${{ matrix.ext }}"
+          $env:RELEASE_DIR = "release-${{ matrix.target }}"
+          mkdir $env:RELEASE_DIR
+          cp target/${{ matrix.target }}/release/$env:BIN_NAME $env:RELEASE_DIR/
+          7z a $env:RELEASE_DIR.zip "$env:RELEASE_DIR/*"
         shell: powershell
-
-      # - name: Set up environment
-      #   run: |
-      #     BIN_NAME=osynic-dl${{ matrix.ext }}
-      #     RELEASE_DIR=release-${{ matrix.target }}
-      #   shell: bash
-
-      # - name: Create release directory
-      #   run: |
-      #     mkdir $RELEASE_DIR
-      #     cp target/${{ matrix.target }}/release/$BIN_NAME $RELEASE_DIR/
-      #   shell: bash
-
-      # - name: Package release for Linux
-      #   if: matrix.os != 'windows-latest'
-      #   run: |
-      #     tar czvf $RELEASE_DIR.tar.gz $RELEASE_DIR
-      #   shell: bash
-
-      # - name: Package release for Windows
-      #   if: matrix.os == 'windows-latest'
-      #   run: |
-      #     7z a $RELEASE_DIR.zip $RELEASE_DIR/*
-      #   shell: powershell
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
