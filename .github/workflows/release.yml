@@ -49,17 +49,49 @@ jobs:
       - name: Build release binary
         run: cargo build --release --target ${{ matrix.target }}
 
-      - name: Package release
+      # - name: Package release
+      #   run: |
+      #     BIN_NAME=osynic-dl${{ matrix.ext }}
+      #     RELEASE_DIR=release-${{ matrix.target }}
+      #     mkdir $RELEASE_DIR
+      #     cp target/${{ matrix.target }}/release/$BIN_NAME $RELEASE_DIR/
+      #     if [ "${{ matrix.os }}" = "windows-latest" ]; then
+      #       7z a $RELEASE_DIR.zip $RELEASE_DIR/*
+      #     else
+      #       tar czvf $RELEASE_DIR.tar.gz $RELEASE_DIR
+      #     fi
+
+      - name: Set up environment for Linux
+        if: runner.os != 'Windows'
         run: |
-          BIN_NAME=osynic-dl${{ matrix.ext }}
-          RELEASE_DIR=release-${{ matrix.target }}
-          mkdir $RELEASE_DIR
-          cp target/${{ matrix.target }}/release/$BIN_NAME $RELEASE_DIR/
-          if [ "${{ matrix.os }}" = "windows-latest" ]; then
-            7z a $RELEASE_DIR.zip $RELEASE_DIR/*
-          else
-            tar czvf $RELEASE_DIR.tar.gz $RELEASE_DIR
-          fi
+          export BIN_NAME=osynic-dl${{ matrix.ext }}
+          export RELEASE_DIR=release-${{ matrix.target }}
+        shell: bash
+
+      - name: Set up environment for Windows
+        if: runner.os == 'Windows'
+        run: |
+          $env:BIN_NAME="osynic-dl${{ matrix.ext }}"
+          $env:RELEASE_DIR="release-${{ matrix.target }}"
+        shell: powershell
+
+      - name: Create release directory
+        run: |
+          mkdir $env:RELEASE_DIR
+          cp target/${{ matrix.target }}/release/$env:BIN_NAME $env:RELEASE_DIR/
+        shell: bash
+
+      - name: Package release for Linux
+        if: runner.os != 'Windows'
+        run: |
+          tar czvf $env:RELEASE_DIR.tar.gz -C $env:RELEASE_DIR .
+        shell: bash
+
+      - name: Package release for Windows
+        if: runner.os == 'Windows'
+        run: |
+          7z a $env:RELEASE_DIR.zip $env:RELEASE_DIR\*
+        shell: powershell
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
