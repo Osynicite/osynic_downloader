@@ -1,13 +1,13 @@
-use vielpork::base::traits::ResourceResolver;
-use vielpork::base::structs::ResolvedResource;
-use vielpork::base::enums::{DownloadResource,AuthMethod};
-use vielpork::base::algorithms::generate_task_id;
 use async_trait::async_trait;
+use vielpork::base::algorithms::generate_task_id;
+use vielpork::base::enums::{AuthMethod, DownloadResource};
+use vielpork::base::structs::ResolvedResource;
+use vielpork::base::traits::ResourceResolver;
 
 use crate::sources::{DownloadSource, DownloadSourceType};
 use crate::url::form_url;
 
-#[derive(Debug,Clone)]
+#[derive(Debug, Clone)]
 pub struct OsuBeatmapsetResolver {}
 
 impl OsuBeatmapsetResolver {
@@ -18,16 +18,17 @@ impl OsuBeatmapsetResolver {
 
 #[async_trait]
 impl ResourceResolver for OsuBeatmapsetResolver {
-    async fn resolve(&self, resource: &DownloadResource) -> vielpork::error::Result<ResolvedResource> {
+    async fn resolve(
+        &self,
+        resource: &DownloadResource,
+    ) -> vielpork::error::Result<ResolvedResource> {
         match resource {
-            DownloadResource::Url(url) => {
-                Ok(ResolvedResource{
-                    id: generate_task_id(url),
-                    url: url.clone(),
-                    headers: vec![],
-                    auth: None,
-                })
-            }
+            DownloadResource::Url(url) => Ok(ResolvedResource {
+                id: generate_task_id(url),
+                url: url.clone(),
+                headers: vec![],
+                auth: None,
+            }),
             DownloadResource::Id(id) => {
                 let beatmapset_id: u32;
                 match id.parse::<u32>() {
@@ -41,7 +42,7 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let download_source = DownloadSource::from(DownloadSourceType::Default);
                 let base_url = download_source.base_url.clone();
                 let url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
-                Ok(ResolvedResource{
+                Ok(ResolvedResource {
                     id: beatmapset_id,
                     url: url.clone(),
                     headers: vec![],
@@ -53,16 +54,14 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                 let source: String;
 
                 match params.get(0) {
-                    Some(id) => {
-                        match id.parse::<u32>() {
-                            Ok(id) => {
-                                beatmapset_id = id;
-                            }
-                            Err(_) => {
-                                return Err("Invalid beatmapset id".into());
-                            }
+                    Some(id) => match id.parse::<u32>() {
+                        Ok(id) => {
+                            beatmapset_id = id;
                         }
-                    }
+                        Err(_) => {
+                            return Err("Invalid beatmapset id".into());
+                        }
+                    },
                     None => {
                         return Err("Missing beatmapset_id".into());
                     }
@@ -99,55 +98,48 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                             return Err("Missing password".into());
                         }
                     }
-                    if download_source.requires_basic_auth{
-                        url = form_url(&base_url, &beatmapset_id, "","").map_err(|e| e.to_string())?;
-                        Ok(
-                            ResolvedResource{
-                                id:beatmapset_id,
-                                url: url.clone(),
-                                headers: vec![],
-                                auth: Some(AuthMethod::Basic { username, password }),
-                            }
-                        )
+                    if download_source.requires_basic_auth {
+                        url = form_url(&base_url, &beatmapset_id, "", "")
+                            .map_err(|e| e.to_string())?;
+                        Ok(ResolvedResource {
+                            id: beatmapset_id,
+                            url: url.clone(),
+                            headers: vec![],
+                            auth: Some(AuthMethod::Basic { username, password }),
+                        })
                     } else {
                         let hashed_password = format!("{:x}", md5::compute(password));
-                        url = form_url(&base_url, &beatmapset_id, &username, &hashed_password).map_err(|e| e.to_string())?;
-                        Ok(
-                            ResolvedResource{
-                                id:beatmapset_id,
-                                url: url.clone(),
-                                headers: vec![],
-                                auth: None,
-                            }
-                        )
-                    }
-                } else {
-                    url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
-                    Ok(
-                        ResolvedResource{
-                            id:beatmapset_id,
+                        url = form_url(&base_url, &beatmapset_id, &username, &hashed_password)
+                            .map_err(|e| e.to_string())?;
+                        Ok(ResolvedResource {
+                            id: beatmapset_id,
                             url: url.clone(),
                             headers: vec![],
                             auth: None,
-                        }
-                    )
+                        })
+                    }
+                } else {
+                    url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
+                    Ok(ResolvedResource {
+                        id: beatmapset_id,
+                        url: url.clone(),
+                        headers: vec![],
+                        auth: None,
+                    })
                 }
-
             }
             DownloadResource::HashMap(hashmap) => {
                 let beatmapset_id: u32;
                 let source: String;
                 match hashmap.get("beatmapset_id") {
-                    Some(id) => {
-                        match id.parse::<u32>() {
-                            Ok(id) => {
-                                beatmapset_id = id;
-                            }
-                            Err(_) => {
-                                return Err("Invalid beatmapset id".into());
-                            }
+                    Some(id) => match id.parse::<u32>() {
+                        Ok(id) => {
+                            beatmapset_id = id;
                         }
-                    }
+                        Err(_) => {
+                            return Err("Invalid beatmapset id".into());
+                        }
+                    },
                     None => {
                         return Err("Missing beatmapset_id".into());
                     }
@@ -184,43 +176,37 @@ impl ResourceResolver for OsuBeatmapsetResolver {
                             return Err("Missing password".into());
                         }
                     }
-                    if download_source.requires_basic_auth{
-                        url = form_url(&base_url, &beatmapset_id, "","").map_err(|e| e.to_string())?;
-                        Ok(
-                            ResolvedResource{
-                                id:beatmapset_id,
-                                url: url.clone(),
-                                headers: vec![],
-                                auth: Some(AuthMethod::Basic { username, password }),
-                            }
-                        )
+                    if download_source.requires_basic_auth {
+                        url = form_url(&base_url, &beatmapset_id, "", "")
+                            .map_err(|e| e.to_string())?;
+                        Ok(ResolvedResource {
+                            id: beatmapset_id,
+                            url: url.clone(),
+                            headers: vec![],
+                            auth: Some(AuthMethod::Basic { username, password }),
+                        })
                     } else {
                         let hashed_password = format!("{:x}", md5::compute(password));
-                        url = form_url(&base_url, &beatmapset_id, &username, &hashed_password).map_err(|e| e.to_string())?;
-                        Ok(
-                            ResolvedResource{
-                                id:beatmapset_id,
-                                url: url.clone(),
-                                headers: vec![],
-                                auth: None,
-                            }
-                        )
-                    }
-                } else {
-                    url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
-                    Ok(
-                        ResolvedResource{
-                            id:beatmapset_id,
+                        url = form_url(&base_url, &beatmapset_id, &username, &hashed_password)
+                            .map_err(|e| e.to_string())?;
+                        Ok(ResolvedResource {
+                            id: beatmapset_id,
                             url: url.clone(),
                             headers: vec![],
                             auth: None,
-                        }
-                    )
-                }                
+                        })
+                    }
+                } else {
+                    url = form_url(&base_url, &beatmapset_id, "", "").map_err(|e| e.to_string())?;
+                    Ok(ResolvedResource {
+                        id: beatmapset_id,
+                        url: url.clone(),
+                        headers: vec![],
+                        auth: None,
+                    })
+                }
             }
-            DownloadResource::Resolved(resolved) => {
-                Ok(resolved.clone())
-            }
+            DownloadResource::Resolved(resolved) => Ok(resolved.clone()),
         }
     }
 }

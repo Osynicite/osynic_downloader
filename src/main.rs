@@ -1,23 +1,23 @@
 #![cfg(feature = "tui")]
 
 use clap::Parser;
+use osynic_downloader::resolver::OsuBeatmapsetResolver;
+use osynic_downloader::sources::{DownloadSource, DownloadSourceType};
 use serde::Deserialize;
 use std::path::PathBuf;
+use std::sync::Arc;
+use tokio::sync::Mutex;
 use vielpork::{
     base::{enums::DownloadResource, structs::DownloadOptions, structs::PathPolicy},
     downloader::Downloader,
     reporters::tui::TuiReporter,
 };
-use osynic_downloader::resolver::OsuBeatmapsetResolver;
-use osynic_downloader::sources::{DownloadSource,DownloadSourceType};
-use std::sync::Arc;
-use tokio::sync::Mutex;
 
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
 struct CliArgs {
     /// Path to JSON file with beatmapset IDs array
-    #[arg(short,long, conflicts_with = "osynic_songs")]
+    #[arg(short, long, conflicts_with = "osynic_songs")]
     beatmapsets: Option<PathBuf>,
 
     /// Path to JSON file with osynic song details
@@ -25,7 +25,7 @@ struct CliArgs {
     osynic_songs: Option<PathBuf>,
 
     /// Source to use for downloading. Available sources:  OsuDirect | OsuApiV2 | SayoApi | ChimuApi
-    #[arg(short,long, default_value = "SayoApi")]
+    #[arg(short, long, default_value = "SayoApi")]
     source: String,
 
     /// Username for source authentication
@@ -61,15 +61,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
     let source = args.source;
 
-    
-    if source != "OsuDirect" && source != "OsuApiV2" && source != "SayoApi" && source != "ChimuApi" {
+    if source != "OsuDirect" && source != "OsuApiV2" && source != "SayoApi" && source != "ChimuApi"
+    {
         return Err("Invalid source".into());
     }
-    
-    if  source == "OsuApiV2" {
+
+    if source == "OsuApiV2" {
         return Err("OsuApiV2 is not supported now.".into());
     }
-
 
     let download_source = DownloadSource::from(DownloadSourceType::from(source.as_str()));
 
@@ -79,19 +78,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         }
     }
 
-
     let resources = if let Some(beatmapsets_path) = &args.beatmapsets {
         // 处理普通谱面集模式
         let json_data = tokio::fs::read_to_string(beatmapsets_path).await?;
         let list: BeatmapsetList = serde_json::from_str(&json_data)?;
         list.beatmapset_ids
             .into_iter()
-            .map(|id| DownloadResource::Params(vec![
-                id,
-                source.clone(),
-                args.username.clone().unwrap_or_default(),
-                args.password.clone().unwrap_or_default(),
-            ]))
+            .map(|id| {
+                DownloadResource::Params(vec![
+                    id,
+                    source.clone(),
+                    args.username.clone().unwrap_or_default(),
+                    args.password.clone().unwrap_or_default(),
+                ])
+            })
             .collect()
     } else if let Some(songs_path) = &args.osynic_songs {
         // 处理 osynic 歌曲模式

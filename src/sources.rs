@@ -1,6 +1,6 @@
 use serde::{Deserialize, Serialize};
 
-#[derive(Clone,Debug,Default,PartialEq,Deserialize, Serialize)]
+#[derive(Clone, Debug, Default, PartialEq, Deserialize, Serialize)]
 pub enum DownloadSourceType {
     #[default]
     Default,
@@ -11,7 +11,7 @@ pub enum DownloadSourceType {
     Custom(DownloadSource),
 }
 
-impl DownloadSourceType{
+impl DownloadSourceType {
     pub fn to_string(&self) -> String {
         match self {
             DownloadSourceType::OsuDirect => "OsuDirect".to_string(),
@@ -22,7 +22,6 @@ impl DownloadSourceType{
             _ => "Default".to_string(),
         }
     }
-        
 }
 
 impl From<i32> for DownloadSourceType {
@@ -55,8 +54,7 @@ impl From<String> for DownloadSourceType {
     }
 }
 
-
-#[derive(Clone,Debug,PartialEq,Deserialize, Serialize)]
+#[derive(Clone, Debug, PartialEq, Deserialize, Serialize)]
 pub struct DownloadSource {
     pub id: u32,
     pub name: String,
@@ -71,7 +69,7 @@ pub struct DownloadSource {
     pub support_range: bool,
     pub requires_osu_credentials: bool,
     pub requires_basic_auth: bool,
-    pub requires_oauth_token: bool
+    pub requires_oauth_token: bool,
 }
 
 impl From<DownloadSourceType> for DownloadSource {
@@ -82,7 +80,7 @@ impl From<DownloadSourceType> for DownloadSource {
             DownloadSourceType::SayoApi => DownloadSource::sayo_api(),
             DownloadSourceType::ChimuApi => DownloadSource::chimu_api(),
             DownloadSourceType::Custom(s) => s,
-            _ => DownloadSource::default()
+            _ => DownloadSource::default(),
         }
     }
 }
@@ -92,18 +90,18 @@ impl Default for DownloadSource {
         DownloadSource {
             id: 2,
             name: "sayo! api".to_string(),
-                owner : "sayobot <https://github.com/SoulDee/>".to_string(),
-                site: "https://osu.sayobot.cn/".to_string(),
-                description: "download from sayo! mirror servers.\r\nNo login required.".to_string(),
-                base_url: "https://txy1.sayobot.cn/beatmaps/download/full/{}?server=auto".to_string(),
-                referer: "https://osu.sayobot.cn/".to_string(),
-                limit_pre_minute: 120,
-                limit_threads: 3,
-                timeout: 5000,
-                support_range: false,
-                requires_osu_credentials: false,
-                requires_basic_auth: false,
-                requires_oauth_token: false
+            owner: "sayobot <https://github.com/SoulDee/>".to_string(),
+            site: "https://osu.sayobot.cn/".to_string(),
+            description: "download from sayo! mirror servers.\r\nNo login required.".to_string(),
+            base_url: "https://txy1.sayobot.cn/beatmaps/download/full/{}?server=auto".to_string(),
+            referer: "https://osu.sayobot.cn/".to_string(),
+            limit_pre_minute: 120,
+            limit_threads: 3,
+            timeout: 5000,
+            support_range: false,
+            requires_osu_credentials: false,
+            requires_basic_auth: false,
+            requires_oauth_token: false,
         }
     }
 }
@@ -116,7 +114,8 @@ impl DownloadSource {
             owner: "osu! <https://osu.ppy.sh/u/2>".to_string(),
             site: "https://osu.ppy.sh/".to_string(),
             description: "directly download from osu! servers.\r\nLogin required.".to_string(),
-            base_url: "https://osu.ppy.sh/d/{beatmapset_id}?u={username}&h={hashed_password}&vv=2".to_string(),
+            base_url: "https://osu.ppy.sh/d/{beatmapset_id}?u={username}&h={hashed_password}&vv=2"
+                .to_string(),
             referer: "https://osu.ppy.sh/beatmapsets/".to_string(),
             limit_pre_minute: 60,
             limit_threads: 1,
@@ -151,18 +150,18 @@ impl DownloadSource {
         DownloadSource {
             id: 2,
             name: "sayo! api".to_string(),
-                owner : "sayobot <https://github.com/SoulDee/>".to_string(),
-                site: "https://osu.sayobot.cn/".to_string(),
-                description: "download from sayo! mirror servers.\r\nNo login required.".to_string(),
-                base_url: "https://txy1.sayobot.cn/beatmaps/download/full/{}?server=auto".to_string(),
-                referer: "https://osu.sayobot.cn/".to_string(),
-                limit_pre_minute: 120,
-                limit_threads: 3,
-                timeout: 5000,
-                support_range: true,
-                requires_osu_credentials: false,
-                requires_basic_auth: false,
-                requires_oauth_token: false
+            owner: "sayobot <https://github.com/SoulDee/>".to_string(),
+            site: "https://osu.sayobot.cn/".to_string(),
+            description: "download from sayo! mirror servers.\r\nNo login required.".to_string(),
+            base_url: "https://txy1.sayobot.cn/beatmaps/download/full/{}?server=auto".to_string(),
+            referer: "https://osu.sayobot.cn/".to_string(),
+            limit_pre_minute: 120,
+            limit_threads: 3,
+            timeout: 5000,
+            support_range: true,
+            requires_osu_credentials: false,
+            requires_basic_auth: false,
+            requires_oauth_token: false,
         }
     }
 
@@ -184,5 +183,4 @@ impl DownloadSource {
             requires_oauth_token: false,
         }
     }
-
 }
