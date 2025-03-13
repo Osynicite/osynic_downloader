@@ -61,36 +61,28 @@ jobs:
       #       tar czvf $RELEASE_DIR.tar.gz $RELEASE_DIR
       #     fi
 
-      - name: Set up environment for Linux
-        if: matrix.os != 'windows-latest'
+      - name: Set up environment
         run: |
-          export BIN_NAME=osynic-dl${{ matrix.ext }}
-          export RELEASE_DIR=release-${{ matrix.target }}
+          BIN_NAME=osynic-dl${{ matrix.ext }}
+          RELEASE_DIR=release-${{ matrix.target }}
         shell: bash
-
-      - name: Set up environment for Windows
-        if: matrix.os == 'windows-latest'
-        run: |
-          $env:BIN_NAME="osynic-dl${{ matrix.ext }}"
-          $env:RELEASE_DIR="release-${{ matrix.target }}"
-        shell: powershell
 
       - name: Create release directory
         run: |
-          mkdir $env:RELEASE_DIR
-          cp target/${{ matrix.target }}/release/$env:BIN_NAME $env:RELEASE_DIR/
+          mkdir $RELEASE_DIR
+          cp target/${{ matrix.target }}/release/$BIN_NAME $RELEASE_DIR/
         shell: bash
 
       - name: Package release for Linux
         if: matrix.os != 'windows-latest'
         run: |
-          tar czvf $env:RELEASE_DIR.tar.gz -C $env:RELEASE_DIR .
+          tar czvf $RELEASE_DIR.tar.gz $RELEASE_DIR
         shell: bash
 
       - name: Package release for Windows
         if: matrix.os == 'windows-latest'
         run: |
-          7z a $env:RELEASE_DIR.zip $env:RELEASE_DIR\*
+          7z a $RELEASE_DIR.zip $RELEASE_DIR/*
         shell: powershell
 
       - name: Upload artifact
