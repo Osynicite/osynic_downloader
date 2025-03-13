@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://img.shields.io/badge/Rust-1.85%2B-blue"/></a>
   <a href="https://crates.io/crates/osynic_downloader" target="_blank"><img src="https://img.shields.io/crates/v/osynic_downloader"/></a>
-  <a href="https://docs.rs/osynic_downloader" target="_blank"><img src="https://img.shields.io/docsrs/osynic_downloader/0.1.0"/></a>
+  <a href="https://docs.rs/osynic_downloader" target="_blank"><img src="https://img.shields.io/docsrs/osynic_downloader/0.1.1"/></a>
   <a href="https://github.com/osynicite/osynic_downloader" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"/></a>
 
 </p>
