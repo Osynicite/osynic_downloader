@@ -1834,9 +1834,9 @@ checksum = "0b928f33d975fc6ad9f86c8f283853ad26bdd5b10b7f1542aa2fa15e2289105a"
 
 [[package]]
 name = "vielpork"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c57a80bf095c902ab7ecad80f76e560ae4b68d786a743d18ceba09c74fc0dbda"
+checksum = "b275f74fb4212359b3074a175284f78b4f2aab40e60ca98d655133da3fbb1316"
 dependencies = [
  "async-trait",
  "base64-simd",
