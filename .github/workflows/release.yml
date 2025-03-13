@@ -29,6 +29,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Install musl-gcc
+        if: matrix.os == 'ubuntu-latest'
+        run: sudo apt-get update && sudo apt-get install -y musl-tools
+  
       - name: Install Rust
         uses: actions-rs/toolchain@v1
         with:
