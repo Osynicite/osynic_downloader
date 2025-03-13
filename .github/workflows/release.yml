@@ -65,7 +65,7 @@ jobs:
           $env:RELEASE_DIR = "release-${{ matrix.target }}"
           mkdir $env:RELEASE_DIR
           cp target/${{ matrix.target }}/release/$env:BIN_NAME $env:RELEASE_DIR/
-          7z a $env:RELEASE_DIR.zip "$env:RELEASE_DIR/*"
+          Compress-Archive -Path "$env:RELEASE_DIR\*" -DestinationPath "$env:RELEASE_DIR.zip"
         shell: powershell
 
       - name: Upload artifact
