@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://crates.io/crates/osynic_downloader" target="_blank"><img src="https://img.shields.io/crates/v/osynic_downloader"/></a>
-  <a href="https://docs.rs/osynic_downloader" target="_blank"><img src="https://img.shields.io/docsrs/osynic_downloader/0.1.1"/></a>
+  <a href="https://docs.rs/osynic_downloader" target="_blank"><img src="https://img.shields.io/docsrs/osynic_downloader/0.1.2"/></a>
   <a href="https://github.com/osynicite/osynic_downloader" target="_blank"><img src="https://img.shields.io/badge/License-MIT-green.svg"/></a>
 
 </p>
@@ -131,8 +131,8 @@ osynic-dl --osynic-songs json/songs.json --output ./music
 
 ```toml
 [dependencies]
-osynic_downloader = {version="0.1.0",default-features = false, features = ["cli"]}
-vielpork ={version="0.1.0"}
+osynic_downloader = { version="0.1.2", default-features = false, features = ["cli"]}
+vielpork = "0.1.2"
 ```
 
 然后就可以为你的vielpork下载器添加osu!谱面的解析器了！
