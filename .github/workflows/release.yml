@@ -62,14 +62,14 @@ jobs:
       #     fi
 
       - name: Set up environment for Linux
-        if: runner.os != 'Windows'
+        if: matrix.os != 'windows-latest'
         run: |
           export BIN_NAME=osynic-dl${{ matrix.ext }}
           export RELEASE_DIR=release-${{ matrix.target }}
         shell: bash
 
       - name: Set up environment for Windows
-        if: runner.os == 'Windows'
+        if: matrix.os == 'windows-latest'
         run: |
           $env:BIN_NAME="osynic-dl${{ matrix.ext }}"
           $env:RELEASE_DIR="release-${{ matrix.target }}"
@@ -82,13 +82,13 @@ jobs:
         shell: bash
 
       - name: Package release for Linux
-        if: runner.os != 'Windows'
+        if: matrix.os != 'windows-latest'
         run: |
           tar czvf $env:RELEASE_DIR.tar.gz -C $env:RELEASE_DIR .
         shell: bash
 
       - name: Package release for Windows
-        if: runner.os == 'Windows'
+        if: matrix.os == 'windows-latest'
         run: |
           7z a $env:RELEASE_DIR.zip $env:RELEASE_DIR\*
         shell: powershell
